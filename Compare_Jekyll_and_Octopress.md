@@ -57,8 +57,8 @@
 4. Run bundle install.
 5. Add the new jekyll files to git: git add --all.
 6. Commit the files: git commit -m "committing my jekyll theme".
-7. Push the files up to your github repo: git push.
-Or see this site: [Jekyll Quickstart Instructions](https://jekyllrb.com/docs/)
+7. Push the files up to your github repo: git push.  
+Or see this site: [Jekyll Quickstart Instructions](https://jekyllrb.com/docs/)  
 Or refer to this video: [Jekyll Tutorial](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3)
 
 ### Octopress
