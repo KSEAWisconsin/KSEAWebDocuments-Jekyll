@@ -7,4 +7,5 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [x] Differences and Commons
     + [ ] How They Work (Running Environment)
     + [ ] Required Technical Background to Make Theme Package
+    + [ ] Description of front-end on Jekyll
     + *Last Update:*
