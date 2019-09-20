@@ -59,7 +59,12 @@
 6. Commit the files: git commit -m "committing my jekyll theme".
 7. Push the files up to your github repo: git push.  
 Or see this site: [Jekyll Quickstart Instructions](https://jekyllrb.com/docs/)  
-Or refer to this video: [Jekyll Tutorial](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3)
+Or refer to this video: [Jekyll Tutorial for Window](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3) or [for Mac](https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2)
 
 ### Octopress
 - [Install Octopress Hyperlink](http://octopress.org/docs/setup/)
+
+## Working environment
+### Jekyll
+- Need [RubyGem](https://rubyinstaller.org/downloads/)
+- Terminal (CMD)
