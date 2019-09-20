@@ -2,10 +2,12 @@
 Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of Korean-American Scientists and Engineers Association - Wisconsin Chapter
 
 ## Contents
- - **Compare_Jekyll_and_Octopress.md**
-    + [x] What is Jekyll and Octopress
-    + [x] Differences and Commons
-    + [x] How They Work (Running Environment)
-    + [x] Required Technical Background to Make Theme Package
-    + [ ] Description of front-end on Jekyll
-    + *Last Update:*
+ - **Jekyll.md**
+    + [x] Basic Description
+    + [x] Features
+    + [x] Octopress (static Contents Management Tool based on Jekyll)
+      * Some Description
+      * Feature
+    + [ ] Reason for Choosing Jekyll
+    + [ ] Reason for Refusing Jekyll
+    + *Last Update:* Sep. 20. 2019
