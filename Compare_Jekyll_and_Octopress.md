@@ -3,7 +3,6 @@
 - static site generator
 - Written in **Ruby**
 - MIT license
-- Repo: https://github.com/jekyll/jekyll
 
 ### Feautures
 - **Not** using **backend databases**
@@ -20,15 +19,12 @@
   - Forestry
   - Netlify
   - Siteleaf
+- Editor: Jekyll-atom --> Jekyll in Atom
 
 
 ## Octopress
 - **Obsessively** designed framework for Jekyll blogging.
-- Should be comfortable running **shell commands** and familiar with the basics of **Git**
-- Need **Ruby**
-- **Some plugins** have been just created **only for Octopress**
 - **Blogging framework** for Jekyll
-- *<span style ="color: red;">Last update on 5 years ago</span>* (https://github.com/imathis/octopress)
 
 ### Features
 - Concentrated on readability and friendliness towards **mobile device**
@@ -37,6 +33,9 @@
   - Models
   - Tooltip
   - etc.
+- **Some plugins** have been just created **only for Octopress**
+- Need **Ruby**
+- Should be comfortable running **shell commands** and familiar with the basics of **Git**
 
 
 ## Differences
@@ -48,3 +47,18 @@
 ## Commons
 - Free
 - Using **Ruby**
+
+
+## Install
+### Jekyll
+1. In terminal, browse to your Jekyll project directory.
+2. Type bundle init. ...
+3. Type open gemfile. ...
+4. Run bundle install.
+5. Add the new jekyll files to git: git add --all.
+6. Commit the files: git commit -m "committing my jekyll theme".
+7. Push the files up to your github repo: git push.
+
+### Octopress
+- [Install Octoress Hyperlink](http://octopress.org/docs/setup/)
+
