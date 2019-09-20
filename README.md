@@ -5,7 +5,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
  - **Compare_Jekyll_and_Octopress.md**
     + [x] What is Jekyll and Octopress
     + [x] Differences and Commons
-    + [ ] How They Work (Running Environment)
-    + [ ] Required Technical Background to Make Theme Package
+    + [x] How They Work (Running Environment)
+    + [x] Required Technical Background to Make Theme Package
     + [ ] Description of front-end on Jekyll
     + *Last Update:*
