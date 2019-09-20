@@ -3,6 +3,7 @@
 - static site generator
 - Written in **Ruby**
 - MIT license
+- Repo: https://github.com/jekyll/jekyll
 
 ### Feautures
 - **Not** using **backend databases**
@@ -27,6 +28,7 @@
 - Need **Ruby**
 - **Some plugins** have been just created **only for Octopress**
 - **Blogging framework** for Jekyll
+- *<span style ="color: red;">Last update on 5 years ago</span>* (https://github.com/imathis/octopress)
 
 ### Features
 - Concentrated on readability and friendliness towards **mobile device**
