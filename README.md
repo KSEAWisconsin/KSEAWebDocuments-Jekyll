@@ -59,7 +59,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [ ] Reason for Choosing NextJS
     + [ ] Reason for Refusing NextJS
     + *Last Update:* 
-    + *Author:* 
+    + *Author:* Chanwoong Jhon
 
   - **Nuxt.md**
     + [ ] Basic Description
