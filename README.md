@@ -15,7 +15,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [x] Features
     + [ ] Reason for Choosing Gatsby
     + [ ] Reason for Refusing Gatsby
-    + *Last Update:* 
+    + *Last Update:* Sep. 22. 2019
     + *Author:* Yongsang Park
 
   - **GitBook.md**
@@ -50,7 +50,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
       * Feature
     + [x] Reason for Choosing Jekyll
     + [ ] Reason for Refusing Jekyll
-    + *Last Update:* Sep. 20. 2019
+    + *Last Update:* Sep. 22. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
   - **NextJS.md**
