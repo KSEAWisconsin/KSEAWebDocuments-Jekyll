@@ -11,8 +11,8 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* 
 
   - **Gatsby.md**
-    + [ ] Basic Description
-    + [ ] Features
+    + [x] Basic Description
+    + [x] Features
     + [ ] Reason for Choosing Gatsby
     + [ ] Reason for Refusing Gatsby
     + *Last Update:* 
@@ -48,7 +48,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [x] Octopress (static Contents Management Tool based on Jekyll)
       * Some Description
       * Feature
-    + [ ] Reason for Choosing Jekyll
+    + [x] Reason for Choosing Jekyll
     + [ ] Reason for Refusing Jekyll
     + *Last Update:* Sep. 20. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
