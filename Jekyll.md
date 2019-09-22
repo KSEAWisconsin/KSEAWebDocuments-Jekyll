@@ -41,5 +41,12 @@
 - Should be comfortable running **shell commands** and familiar with the basics of **Git**
 
 ## Reason for Choosing Jekyll
+1. Simple
+  - No database
+    - Nothing runs on the surver
+  - Supports markdown for posts and pages
+2. Light, Fast and Secure
+  - Has very less code
+[Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
 
 ## Reason for Refusing Jekyll
