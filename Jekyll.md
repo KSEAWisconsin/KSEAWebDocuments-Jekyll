@@ -46,8 +46,15 @@
      - Nothing runs on the surver
    - Supports markdown for posts and pages
 2. Light, Fast and Secure
-   - Has very less code (Compare to other CMS tools)
+   - Has very less code (Compare to other CMS tools)  
+     [Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
 3. Lots of References (as it supported by Github Pages)
-[Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
+4. Officially supported by github pages
+   - Might not need to build if we service on github pages
+5. Lots of plug-ins
 
 ## Reason for Refusing Jekyll
+1. Build speed is slower than other Static Website Generators
+2. Have long history, but there also exists other ***rising*** tools to make static website
+3. Hard to configurate Ruby environment
+   - version compatibility issue
