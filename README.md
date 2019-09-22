@@ -62,11 +62,11 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Chanwoong Jhon
 
   - **Nuxt.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing Nuxt
-    + [ ] Reason for Refusing Nuxt
-    + *Last Update:* 
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing Nuxt
+    + [x] Reason for Refusing Nuxt
+    + *Last Update:* Sep. 21. 2019
     + *Author:* Chaiyeen Oh
 
   - **VuePress.md**
