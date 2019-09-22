@@ -46,7 +46,8 @@
      - Nothing runs on the surver
    - Supports markdown for posts and pages
 2. Light, Fast and Secure
-   - Has very less code
+   - Has very less code (Compare to other CMS tools)
+3. Lots of References (as it supported by Github Pages)
 [Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
 
 ## Reason for Refusing Jekyll
