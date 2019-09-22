@@ -49,7 +49,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
       * Some Description
       * Feature
     + [x] Reason for Choosing Jekyll
-    + [ ] Reason for Refusing Jekyll
+    + [x] Reason for Refusing Jekyll
     + *Last Update:* Sep. 22. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
