@@ -5,8 +5,7 @@ Reference: [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
 
 ## Basic Description
 - React-based, GraphQL powered, static site generator
-- Official Website: https://www.gatsbyjs.org/
-- [Gatsby Official site](https://www.gatsbyjs.org/)
+- [Official Website](https://www.gatsbyjs.org/)
 
 ## Feautures
 - Using **CMS**s
