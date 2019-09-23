@@ -1,8 +1,11 @@
 # Gatsby
 Reference: [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
+[Is Gatsby really that great?](https://blog.logrocket.com/is-gatsby-really-that-great-e7b19c4c1c05/#targetText=They%20are%20not%20rendered%20during,tool%20that%20generates%20static%20sites.&targetText=The%20main%20difference%20is%20that,when%20a%20request%20is%20made.)
+
 ## Basic Description
 - React-based, GraphQL powered, static site generator
 - Official Website: https://www.gatsbyjs.org/
+- [Gatsby Official site](https://www.gatsbyjs.org/)
 
 ## Feautures
 - Using **CMS**s
@@ -16,7 +19,13 @@ Reference: [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
 - Dedication to **Performance**
 
 ## Reason for Choosing Gatsby
-- See : https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo
+- File is **secured**
+- **Fast**
+  - Generating a **static site**
+- Using **GraphQL**
+- Wll platforms
+- Interacting with **Github**
+
 
 ## Reason for Refusing Gatsby
-- See : https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo
+- Not so much powerful as GraphQL for displaying Image.
