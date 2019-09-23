@@ -36,11 +36,11 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* 
 
   - **Hugo.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing Hugo
-    + [ ] Reason for Refusing Hugo
-    + *Last Update:* 
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing Hugo
+    + [x] Reason for Refusing Hugo
+    + *Last Update:* Sep. 22. 2019
     + *Author:* Hyecheol (Jerry) Jang
 
   - **Jekyll.md**
