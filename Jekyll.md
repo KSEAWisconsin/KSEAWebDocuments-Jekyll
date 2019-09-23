@@ -52,7 +52,7 @@
      [Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
 3. Lots of References (as it supported by Github Pages)
 4. Officially supported by github pages
-   - Might not need to build if we service on github pages
+   - Might not need to build if we service on github pages (Github automatially builds the website)
 5. Lots of plug-ins
 
 ## Reason for Refusing Jekyll

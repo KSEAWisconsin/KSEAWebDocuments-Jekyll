@@ -26,6 +26,7 @@ Reference: [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
 - Pairs really well with platforms
   - i.e., Netlify
 - Interacting with **Github**
+- Able to use data source of verious type
 
 
 ## Reason for Refusing Gatsby
