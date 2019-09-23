@@ -45,8 +45,10 @@
    - No database
      - Nothing runs on the surver
    - Supports markdown for posts and pages
-2. Light, Fast and Secure
-   - Has very less code (Compare to other CMS tools)  
+2. ~Light, Fast and Secure~
+   - Has very less code
+   - Compare to other CMS tools Using backend database server (e.g. WordPress)  
+     + All of our competitors do not rely on server-side rendering, therefore, this cannot be an advantage of using Jerkyll
      [Reference](https://blog.webjeda.com/why-jekyll-over-wordpress/#1-jekyll-is-simple)
 3. Lots of References (as it supported by Github Pages)
 4. Officially supported by github pages
