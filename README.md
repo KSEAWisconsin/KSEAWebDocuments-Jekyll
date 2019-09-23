@@ -71,8 +71,8 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Chaiyeen Oh
 
   - **VuePress.md**
-    + [ ] Basic Description
-    + [ ] Features
+    + [x] Basic Description
+    + [x] Features
     + [ ] Reason for Choosing VuePress
     + [ ] Reason for Refusing VuePress
     + *Last Update:* 
