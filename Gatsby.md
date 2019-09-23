@@ -23,9 +23,21 @@ Reference: [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
 - **Fast**
   - Generating a **static site**
 - Using **GraphQL**
-- Wll platforms
+- Pairs really well with platforms
+  - i.e., Netlify
 - Interacting with **Github**
 
 
 ## Reason for Refusing Gatsby
 - Not so much powerful as GraphQL for displaying Image.
+
+### Appendix
+¿What is GraphQL (Graph Query Language)?
+
+GraphQL is an **open-source data query** and manipulation language **for APIs**, and a runtime for fulfilling queries with existing data.
+- provides an efficient, powerful and flexible approach to developing web APIs
+
+Supports...
+- reading
+- writing (mutating)
+- subscribing to changes to data (realtime updates)
