@@ -13,10 +13,11 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
   - **Gatsby.md**
     + [x] Basic Description
     + [x] Features
-    + [ ] Reason for Choosing Gatsby
-    + [ ] Reason for Refusing Gatsby
+    + [x] Reason for Choosing Gatsby
+    + [x] Reason for Refusing Gatsby
+    + [x] Appendix (About GraphQL)
     + *Last Update:* Sep. 22. 2019
-    + *Author:* Yongsang Park
+    + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
   - **GitBook.md**
     + [ ] Basic Description
@@ -75,4 +76,4 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [ ] Reason for Choosing VuePress
     + [ ] Reason for Refusing VuePress
     + *Last Update:* 
-    + *Author:* 
+    + *Author:* Yongsang Park
