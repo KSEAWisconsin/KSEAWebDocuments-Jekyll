@@ -28,12 +28,12 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Chaiyeen Oh
 
   - **Hexo.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing Hexo
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing Hexo
     + [ ] Reason for Refusing Hexo
-    + *Last Update:* 
-    + *Author:* 
+    + *Last Update:* Sep. 24. 2019
+    + *Author:* Yongsang Park
 
   - **Hugo.md**
     + [x] Basic Description
