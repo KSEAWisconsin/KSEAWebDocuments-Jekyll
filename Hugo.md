@@ -37,3 +37,10 @@ https://github.com/Integerous/Integerous.github.io
 - ~~Lack of Korean Documents~~
   + But there exists room to **contribute the open-source community**
   + All Developers are fluent in English
+
+## Appendix
+- Found useful starting point Theme
+  - https://themes.gohugo.io/theme/meghna-hugo/#body
+- Go language reference
+  - [Official Reference](https://golang.org/ref/spec)
+  - [GoLand, the Go Langauge IDE](https://www.jetbrains.com/go/)
