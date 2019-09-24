@@ -55,11 +55,11 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
   - **NextJS.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing NextJS
-    + [ ] Reason for Refusing NextJS
-    + *Last Update:* 
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing NextJS
+    + [x] Reason for Refusing NextJS
+    + *Last Update:* Sep. 24. 2019
     + *Author:* Chanwoong Jhon
 
   - **Nuxt.md**
