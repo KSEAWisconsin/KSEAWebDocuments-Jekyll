@@ -2,13 +2,13 @@
 Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of Korean-American Scientists and Engineers Association - Wisconsin Chapter
 
 ## Contents
-  - **Docursaurus.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing Docursaurus
+  - **Docusaurus.md**
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing Docursaurus
     + [ ] Reason for Refusing Docursaurus
-    + *Last Update:* 
-    + *Author:* 
+    + *Last Update:* Sep. 24 2019
+    + *Author:* Yongsang Park
 
   - **Gatsby.md**
     + [x] Basic Description
