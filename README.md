@@ -73,7 +73,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
   - **VuePress.md**
     + [x] Basic Description
     + [x] Features
-    + [ ] Reason for Choosing VuePress
-    + [ ] Reason for Refusing VuePress
-    + *Last Update:* 
-    + *Author:* Yongsang Park
+    + [x] Reason for Choosing VuePress
+    + [x] Reason for Refusing VuePress
+    + *Last Update:* Sep. 24. 2019
+    + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
