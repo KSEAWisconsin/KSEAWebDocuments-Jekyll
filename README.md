@@ -31,9 +31,9 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + [x] Basic Description
     + [x] Features
     + [x] Reason for Choosing Hexo
-    + [ ] Reason for Refusing Hexo
+    + [x] Reason for Refusing Hexo
     + *Last Update:* Sep. 24. 2019
-    + *Author:* Yongsang Park
+    + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
   - **Hugo.md**
     + [x] Basic Description

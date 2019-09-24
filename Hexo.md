@@ -1,8 +1,9 @@
 # Hexo
 Reference
->[Documentation](https://hexo.io/docs/index.html)
->[Troubleshooting guide](https://hexo.io/docs/troubleshooting): Just I put this bcause it might need when using
->[Hexo/GitHub](https://github.com/hexojs/hexo)
+> [Documentation](https://hexo.io/docs/index.html)  
+> [Troubleshooting guide](https://hexo.io/docs/troubleshooting): *Just I put this because it might need when using*  
+> [Hexo/GitHub](https://github.com/hexojs/hexo)  
+> [Comparing Various Tools](https://www.techiediaries.com/jekyll-hugo-hexo/)
 
 ## Basic Description
 - A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org/en/)
@@ -20,8 +21,12 @@ Reference
 
 ## Reason for Choosing Hexo
 - Ease of deployment
-- Uses **NodeJS** and **npm**
 - Easy **GitHub Pages publishing**
+  - Same for the other Static Website Builders, and **Jekyll** is much better on doing this.
 
 ## Reason for Refusing Hexo
-- *Lack of information. Need to update.*
+- Backbone of software has been built with Node.JS, but other useful tools (plug-ins) are built in Jade and CoffeeScript, which are different
+  - Need to study more to fully understand and use this tool
+  - steep learning-curve
+- Having large community, but majority of those are Chinese
+  - Is there anyone who can speek Chinese in our team...?
