@@ -4,7 +4,7 @@ reference
 https://nextjs.org/
 
 ## Basic Description
- -Universal Javascript Applications.
+- Universal Javascript Applications.
 
 ## Feautures
 - Server-Side Rendering Done Right
