@@ -2,7 +2,6 @@
 
 reference
 https://nextjs.org/
-~https://en.wikipedia.org/wiki/Nuxt.js~ Note that Next and Nuxt are different
 
 ## Basic Description
 - Note that Next and Nuxt are different ~Nuxt.js is a free and open source web application framework based on Vue.js, Node.js, Webpack and Babel.js~
