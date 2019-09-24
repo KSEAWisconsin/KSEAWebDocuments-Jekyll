@@ -5,6 +5,7 @@ https://nextjs.org/
 
 ## Basic Description
 - Universal Javascript Applications.
+- Write JavaScript and React codes, and simply deploy it.
 
 ## Feautures
 - Server-Side Rendering Done Right
