@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Nuxt.js
 - The framework is advertised as "meta-framework for universal applications". 
 
 ## Feautures
-- 
+- Server-Side Rendering Done Right
 -
 
 ## Reason for Choosing NextJS
