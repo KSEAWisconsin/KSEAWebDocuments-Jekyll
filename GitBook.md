@@ -16,7 +16,6 @@
 - More than 700 plugins are available including a search plugins such as Goog
 le Analytics
 - Simple functions are provided
-  <img src="gitbook sample image.png" alt="gitbook sample image">
 - allows integration with GitHub for backup purposes
 
 
