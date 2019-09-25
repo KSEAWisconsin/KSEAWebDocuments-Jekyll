@@ -2,6 +2,7 @@
 Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of Korean-American Scientists and Engineers Association - Wisconsin Chapter
 
 ## Contents
+### Static Website Builder Research
 - Basic Description
 - Features
 - Reason for Choosing
