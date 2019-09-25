@@ -20,11 +20,11 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
 
   - **GitBook.md**
-    + [ ] Basic Description
-    + [ ] Features
-    + [ ] Reason for Choosing GitBook
-    + [ ] Reason for Refusing GitBook
-    + *Last Update:* 
+    + [x] Basic Description
+    + [x] Features
+    + [x] Reason for Choosing GitBook
+    + [x] Reason for Refusing GitBook
+    + *Last Update:* Sep. 24. 2019
     + *Author:* Chaiyeen Oh
 
   - **Hexo.md**
