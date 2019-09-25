@@ -41,7 +41,3 @@ https://github.com/Integerous/Integerous.github.io
 ## Appendix
 - Found useful starting point Theme
   - https://themes.gohugo.io/theme/meghna-hugo/#body
-- Go language reference
-  - [Official Reference](https://golang.org/ref/spec)
-  - [GoLand, the Go Langauge IDE](https://www.jetbrains.com/go/)
-  - [Previous Developers Comment about Go, *Korean*](http://www.bloter.net/archives/245951)
