@@ -48,7 +48,7 @@ Conduct research on the well-known static website builders (The one that receive
     - *Last Update:* Sep. 24. 2019
     - *Author:* Yongsang Park, Hyecheol (Jerry) Jang  
 
-- **ComparingLanguages.md**
+**ComparingLanguages.md**  
 As a further research, we compared three languages that used by the analyzed static website builders
   - [Contents-List-Goes-Here]
   - *Last Update:*
