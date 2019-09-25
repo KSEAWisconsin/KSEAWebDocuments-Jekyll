@@ -28,6 +28,9 @@
 #### Basic Description
 - Open source programming language
 - [Official site](https://golang.org/)
+- [Official Reference](https://golang.org/ref/spec)
+- [GoLand, the Go Langauge IDE](https://www.jetbrains.com/go/)
+- [Previous Developers Comment about Go, *Korean*](http://www.bloter.net/archives/245951)
 
 #### Pros
 - **Faster compiling speed** than C++
@@ -38,33 +41,38 @@
   > chan else goto package switch  
   > const fallthrough if range type  
   > continue for import return var  
+  + Easy to learn and use
 - Google tries to make applications on Android with Go language [Github site](https://github.com/golang/go/wiki/Mobile)
 - Many companies are using
-  - Dropbox, SoundCloud, Netflix and so on.
+  - Dropbox, SoundCloud, Netflix, Docker, and so on.
+- static type language
+  + Checking variables type when compiled
+  + Reduce possibility of making mistakes
   
 #### Cons
 - Does not produce Bytecode unlike Java
-  - Need to compile separately like C/C++ (Machine Dependent)
+  - Need to compile separately like C/C++ (**Machine Dependent**)
+  - As we will plan to deploy our source code, this is not a big deal for us
 - Significantly slower for complicated operation than C/C++
   - Can't substitute C/C++
 - Don't catch Exceptions or bugs like C (it released in the 20th century), unlike other languages.
   - C language was released in the 20th cetury, but Go was in the 21st.
+  - the next version of Go will contains exception handling
 
 ## JavaScript
-> Java and Javascript are similar like Car and Carpet, Ham and Hamster are similar.
+> The statement "Java and Javascript are similar" is same as "Car and Carpet are similar" and "Ham and Hamster are similar".
 
 #### Basic Description
 - Script Language
 - Using with HTML and CSS
+- All Web Browsers contain interpreter
 - [Official site](https://www.javascript.com/)
 
 #### Pros
 - Low barriers to enter
-  - Easy and flexible syntax and coding
-- Have many flatforms
-  - Chrome Extentions
+  - Easy and flexible syntax and coding (Similar with Java)
 - Can't substitute this language
-  - Will use JS after all
+  - The only language that browsers can understand
   
 #### Cons
 - Hoisting ruins codes and makes bugs.
