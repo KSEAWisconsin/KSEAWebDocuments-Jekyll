@@ -21,9 +21,11 @@
 
 ## Go
 - When you find in google, type *Golang*
+
 #### Basic Description
 - Open source programming language
 - [Official site](https://golang.org/)
+
 #### Pros
 - **Faster compiling speed** than C++
 - Supports **Asynchronous Mechanism** like GoRoutine
@@ -36,6 +38,7 @@
 - Google tries to make applications on Android with Go language [Github site](https://github.com/golang/go/wiki/Mobile)
 - Many companies are using
   - Dropbox, SoundCloud, Netflix and so on.
+  
 #### Cons
 - Does not produce Bytecode unlike Java
   - Need to compile separately like C/C++
@@ -46,10 +49,12 @@
 
 ## JavaScript
 > Java and Javascript are similar like Car and Carpet, Ham and Hamster are similar.
+
 #### Basic Description
 - Script Language
 - Using with HTML and CSS
 - [Official site](https://www.javascript.com/)
+
 #### Pros
 - Low barriers to enter
   - Easy and flexible syntax and coding
@@ -57,12 +62,12 @@
   - Chrome Extentions
 - Can't substitute this language
   - Will use JS after all
+  
 #### Cons
 - Hoisting ruins codes and makes bugs.
 - Very unusual language when you go deeper
 > '11' + 1 -> '111'  
 > '11' - 1 -> '10'
-
 
 ### Node.JS
 #### Basic Description
