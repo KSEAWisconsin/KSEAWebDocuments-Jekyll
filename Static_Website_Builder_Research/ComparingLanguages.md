@@ -5,6 +5,7 @@
 - A dynamic, open source programming language
 - Focused on simplicity and productivity.
 - Affected by Perl
+- Use with Rubu on Rails, the open source web application framework
 - [Official site](https://www.ruby-lang.org/en/)
 
 #### Pros
@@ -16,7 +17,9 @@
 
 #### Cons
 - Slow processing time
-  - Focused on human readability, not machines or computers.
+- Not enough documentation
+- Known issues with version compatibility
+  + Found out that some old technical documents are not working properly on the latest version of Ruby
 
 
 ## Go
@@ -30,18 +33,18 @@
 - **Faster compiling speed** than C++
 - Supports **Asynchronous Mechanism** like GoRoutine
 - only have 25 keywords
-> break default func interface select  
-> case defer go map struct  
-> chan else goto package switch  
-> const fallthrough if range type  
-> continue for import return var  
+  > break default func interface select  
+  > case defer go map struct  
+  > chan else goto package switch  
+  > const fallthrough if range type  
+  > continue for import return var  
 - Google tries to make applications on Android with Go language [Github site](https://github.com/golang/go/wiki/Mobile)
 - Many companies are using
   - Dropbox, SoundCloud, Netflix and so on.
   
 #### Cons
 - Does not produce Bytecode unlike Java
-  - Need to compile separately like C/C++
+  - Need to compile separately like C/C++ (Machine Dependent)
 - Significantly slower for complicated operation than C/C++
   - Can't substitute C/C++
 - Don't catch Exceptions or bugs like C (it released in the 20th century), unlike other languages.

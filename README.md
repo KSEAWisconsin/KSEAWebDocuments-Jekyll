@@ -50,6 +50,7 @@ Conduct research on the well-known static website builders (The one that receive
 
 **ComparingLanguages.md**  
 As a further research, we compared three languages that used by the analyzed static website builders
-  - [Contents-List-Goes-Here]
-  - *Last Update:*
-  - *Author:*
+  - Descriptions and Features of each Language
+  - Pros and Cons
+  - *Last Update:* Sep. 25. 2019
+  - *Author:* Yongsang Park, Hyecheol (Jerry) Jang
