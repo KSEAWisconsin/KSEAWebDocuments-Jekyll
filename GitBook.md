@@ -2,7 +2,8 @@
 
 ## Basic Description
 - Gitbook is a static site generator that provides a way to write books and share them online. 
-  - Site generators are applications that build HTML web pages from static content in the form of raw data, such markdown, and predefined templates and themes.  
+  - Site generators are applications that build HTML web pages from static content in the form of raw data, such markdown, and predefined templates and themes.
+- [Official site](https://www.gitbook.com/)
 
 ## Feautures
 - Use JavaScript/R on Markdown
