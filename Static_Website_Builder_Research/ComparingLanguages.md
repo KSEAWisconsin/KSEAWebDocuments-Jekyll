@@ -28,11 +28,11 @@
 - **Faster compiling speed** than C++
 - Supports **Asynchronous Mechanism** like GoRoutine
 - only have 25 keywords
-> break default func interface select
-> case defer go map struct
-> chan else goto package switch
-> const fallthrough if range type
-> continue for import return var
+> break default func interface select  
+> case defer go map struct  
+> chan else goto package switch  
+> const fallthrough if range type  
+> continue for import return var  
 - Google tries to make applications on Android with Go language [Github site](https://github.com/golang/go/wiki/Mobile)
 - Many companies are using
   - Dropbox, SoundCloud, Netflix and so on.
@@ -60,7 +60,7 @@
 #### Cons
 - Hoisting ruins codes and makes bugs.
 - Very unusual language when you go deeper
-> '11' + 1 -> '111'
+> '11' + 1 -> '111'  
 > '11' - 1 -> '10'
 
 
