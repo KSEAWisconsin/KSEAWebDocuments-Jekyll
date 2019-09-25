@@ -28,7 +28,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
     + *Author:* Hyecheol (Jerry) Jang
 
   - **Jekyll.md**
-    + [x] Octopress (static Contents Management Tool based on Jekyll)
+    + Octopress (static Contents Management Tool based on Jekyll)
       * Some Description
       * Feature
     + *Last Update:* Sep. 22. 2019
