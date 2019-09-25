@@ -3,6 +3,7 @@ Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of K
 
 ## Contents
 ### Static Website Builder Research
+Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
 - Features
 - Reason for Choosing
