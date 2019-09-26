@@ -59,7 +59,8 @@ Conduct research on the well-known static website builders (The one that receive
     - *Author:* Yongsang Park, Hyecheol (Jerry) Jang  
 
 **ComparingLanguages.md**  
-As a further research, we compared three languages that used by the analyzed static website builders
+As a further research, we compared three languages that used by the analyzed static website builders  
+Comparing **Go**, **Ruby**, **JavaScript(Node.JS)**
   - Descriptions and Features of each Language
   - Pros and Cons
   - *Last Update:* Sep. 25. 2019

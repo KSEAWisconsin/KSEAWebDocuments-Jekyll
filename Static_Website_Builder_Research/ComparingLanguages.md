@@ -77,16 +77,26 @@
 #### Cons
 - Hoisting ruins codes and makes bugs.
 - Very unusual language when you go deeper
-> '11' + 1 -> '111'  
-> '11' - 1 -> '10'
+  > '11' + 1 -> '111'  
+  > '11' - 1 -> '10'
+- JavaScript is an esoteric language
+  - Tends to run and return "wrong" value though the code contains bugs
 
 ### Node.JS
 #### Basic Description
-- JavaScript runtime built on Chrome's V8 JavaScript engine
+- JavaScript **runtime** built on Chrome's V8 JavaScript engine
+- Developed to make server side application by using JavaScript
 - [Official site](https://nodejs.org/en/)
 
 #### Pros
+- If someone with previous JavaScript knowledge, learning Node.JS is not a big deal
+- Integrated Webserver, do not need to use seperated web server (e.g. Apache, NginX ...)
+- See the Pros of JavaScript
 
 #### Cons
 - Need error handling
   - If not, the program will shut down
+- Hard to understand the code
+  + Because of Continuation-Passing Style
+  + Lots of **call back** occurs
+- See the cons of JavaScript
