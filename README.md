@@ -1,7 +1,17 @@
 # KSEAWebDocuments
-Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of Korean-American Scientists and Engineers Association - Wisconsin Chapter
+Storing all documents(paperworks, Wiki, etc) for Website rebuilding project of Korean-American Scientists and Engineers Association - Wisconsin Chapter  
+
+After intense research on various static website builders, we decide to use Jekyll
+- At now, Sep. 26. 2019, the latest version of Jeykll is **4.0.0**
+- Install Jeykll **4.0.0**, following the [official guide](https://jekyllrb.com/docs/installation/)
 
 ## Contents
+### Error While Installing Jekyll
+This file has been generated to report errors while installing Jekyll, and report the solutions for those.
+- Failed to build gem native extension
+- *Last Update:* Sep. 26. 2019
+- *Author:* Hyecheol (Jerry) Jang
+
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
