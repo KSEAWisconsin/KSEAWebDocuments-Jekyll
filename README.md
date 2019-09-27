@@ -9,8 +9,9 @@ After intense research on various static website builders, we decide to use Jeky
 ### Error While Installing Jekyll
 This file has been generated to report errors while installing Jekyll, and report the solutions for those.
 - Failed to build gem native extension
-- *Last Update:* Sep. 26. 2019
-- *Author:* Hyecheol (Jerry) Jang
+- ERR_CONNECTION_REFUSED while trying to access from the other device
+- *Last Update:* Sep. 27. 2019
+- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
 
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
