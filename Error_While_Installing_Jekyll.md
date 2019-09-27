@@ -14,4 +14,6 @@
   `apt-get install ruby[your-ruby-version]-dev`
 - ruby version can be checked with this commend  
   `ruby -v`
-- when servicing jekyll, use option --host=0.0.0.0 , which means allow all ip addresses to access
+- when servicing jekyll, use option 
+  `--host=0.0.0.0 `
+  which means allow all ip addresses to access
