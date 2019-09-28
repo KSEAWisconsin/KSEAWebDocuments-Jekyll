@@ -19,7 +19,8 @@ Follow the procedures written on [Collaborators (Developers)](https://github.com
 ### Collaborators (Developers)
 You are not allowed to pull directly to master, but you can make a new branch and write code there.  
 After you make new branch with **descriptive name** including your **gitHub Username or FirstName**, you should make a pull request to master. (example of branch name: `Hyecheol_JekyllInstallProcedure`)  
-After making a pull request, **CodeOnwer will check your code and merge** it to master after review. At least one review is requried.
+After making a pull request, **CodeOnwer will check your code and merge** it to master after review. At least one review is requried.  
+Note that if you submit more than one PRs from Repository, only the latest PR will be reviewed (others will be deleted). If you submit incompleted work, you can resubmit the PR after you finish your work. All new branches must be created based on the features you are working on.
 
 - Make new branch (Convention: `NAME_DESCRIPTION`)
 - Work on the new branch
@@ -30,7 +31,7 @@ After making a pull request, **CodeOnwer will check your code and merge** it to 
 You are not allowed to make any changes directly on this repository, but you can still read code and make fork of this code.  
 To make some contribution, please **fork** this repository and work there. Note that the the forked repository name must contains this repository name with short descriptions (Forked Repository name example: `KSEAWebDocuments_JekyllInstallProcedure`)  
 After that, you can submit a pull request to this repository.  
-The procedures after you submit the pull request is same as collaborators'.
+The procedures after you submit the pull request is same as collaborators'. Read the Collaborators' Guideline located above.
 
 - Fork this repository (Convention: `RepoName_DESCRIPTION`, On GitHub Web)
 - Work on forked repository
