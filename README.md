@@ -13,6 +13,11 @@ This file has been generated to report errors while installing Jekyll, and repor
 - *Last Update:* Sep. 27. 2019
 - *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
 
+### Jekyll Install Procedure (Ubuntu)
+Containing procedures to install Jekyll, from the beginning (setting up the requirements)
+- *Last Update:* Sep. 28. 2019
+- *Author:* Hyecheol (Jerry) Jang
+
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
