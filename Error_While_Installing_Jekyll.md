@@ -1,7 +1,7 @@
 # Error While Installing Jekyll
 
 ## Failed to build gem native extenstion
-- OS: Ubuntu 18.04.3 LTS (Windows Subsystem for Linux, x86_64)
+- OS: Ubuntu 18.04.3 LTS (Windows Subsystem for Linux, AMD64)
 
 ### Description
 - While install Jekyll using  
