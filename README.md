@@ -14,7 +14,7 @@ Permission granted to push directly to master
 
 ### CodeOwners
 Someone who are responsible for code review and merge the pull request from others. But, still not granted direct push permission to master branch.  
-Follow the procedures written on [Collaborators](https://github.com/hyecheol123/KSEAWebDocuments#collaborators).
+Follow the procedures written on [Collaborators (Developers)](https://github.com/hyecheol123/KSEAWebDocuments#collaborators-developerss).
 
 ### Collaborators (Developers)
 You are not allowed to pull directly to master, but you can make a new branch and write code there.  
