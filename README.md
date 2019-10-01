@@ -39,6 +39,26 @@ The procedures after you submit the pull request is same as collaborators'. Read
 - Wait for Reviews
 
 
+## Timeline of Project
+The estimated plan for this project is illustrated below
+- Sep. 24: Select base open-source project that will use for this project (**Finish**)
+  + We Selected **Jekyll**
+- Oct. 05: Finish installing required environment (**On-going**)
+- Oct. 19: Designing Website / Obtain basic knowledge of the selected open-source project (**On-going**)
+- Dec. 01: Finish Development
+- Dec. 25: Test Initiated
+- Jan. 20: Start service on AWS
+- Mar. 15: Fixing Error, estimating cost
+- May. 15: End of Project, Maintaining service
+
+
+## More upcomming projects
+- Implementing E-Mail Inquiry form (Using AWS Lambda and SES)
+- Implementing autonomous E-Mail Advertisement sender (Using AWS SES)
+- Make auto resume builder for KSEA-Chapter Members (Using Jekyll?)
+- Development Website for YG Chapter
+
+
 ## Contents
 ### Error While Installing Jekyll
 This file has been generated to report errors while installing Jekyll, and report the solutions for those.
