@@ -43,8 +43,8 @@ The procedures after you submit the pull request is same as collaborators'. Read
 The estimated plan for this project is illustrated below
 - Sep. 24: Select base open-source project that will use for this project (**Finish**)
   + We Selected **Jekyll**
-- Oct. 05: Finish installing required environment (**On-going**)
-- Oct. 19: Designing Website / Obtain basic knowledge of the selected open-source project (**On-going**)
+- ~~Oct. 05~~ Oct. 04: Finish installing required environment (**Finish**)
+- Oct. 19: Designing Website / Obtain basic knowledge of the se-ected open-source project (**On-going**)
 - Dec. 01: Finish Development
 - Dec. 25: Test Initiated
 - Jan. 20: Start service on AWS
@@ -60,17 +60,19 @@ The estimated plan for this project is illustrated below
 
 
 ## Contents
-### Error While Installing Jekyll
-This file has been generated to report errors while installing Jekyll, and report the solutions for those.
-- Failed to build gem native extension
-- ERR_CONNECTION_REFUSED while trying to access from the other device
-- *Last Update:* Sep. 27. 2019
-- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
+### Jekyll  
+Containing document related to using (installing) Jekyll
+- **Error While Installing Jekyll**  
+  This file has been generated to report errors while installing Jekyll, and report the solutions for those.
+  - Failed to build gem native extension
+  - ERR_CONNECTION_REFUSED while trying to access from the other device
+  - *Last Update:* Sep. 27. 2019
+  - *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
 
-### Jekyll Install Procedure (Ubuntu)
-Containing procedures to install Jekyll, from the beginning (setting up the requirements)
-- *Last Update:* Sep. 28. 2019
-- *Author:* Hyecheol (Jerry) Jang
+- **Jekyll Install Procedure (Ubuntu)**  
+  Containing procedures to install Jekyll, from the beginning (setting up the requirements)
+  - *Last Update:* Sep. 28. 2019
+  - *Author:* Hyecheol (Jerry) Jang
 
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
