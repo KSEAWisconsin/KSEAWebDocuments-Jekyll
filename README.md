@@ -75,36 +75,39 @@ Containing document related to using (installing) Jekyll
   - *Author:* Hyecheol (Jerry) Jang
 
 ***TODO: Files below must be created, and needs to be written not only containing the information indicated, but also the related information. Think aboug how we can use this functions to make our website***
-- **Liquid**  
-  https://jekyllrb.com/docs/step-by-step/02-liquid/
-
 - **Directory Structure**  
+  Needs to contain all information below, and the other useful information you found
   https://jekyllrb.com/docs/structure/
+  
+  + **Liquid**  
+    https://jekyllrb.com/docs/step-by-step/02-liquid/
 
-- **Front Matter**  
-  https://jekyllrb.com/docs/step-by-step/03-front-matter/  
-  YAML
+  + **Front Matter**  
+    https://jekyllrb.com/docs/step-by-step/03-front-matter/  
+    YAML
 
-- **Basic Layout**  
-  https://jekyllrb.com/docs/step-by-step/04-layouts/
+  + **Basic Layout**  
+    https://jekyllrb.com/docs/step-by-step/04-layouts/
 
-- **Includes**  
-  https://jekyllrb.com/docs/step-by-step/05-includes/
+  + **Includes**  
+    https://jekyllrb.com/docs/step-by-step/05-includes/
 
-- **Data Files**  
-  https://jekyllrb.com/docs/step-by-step/06-data-files/
+  + **Data Files**  
+    https://jekyllrb.com/docs/step-by-step/06-data-files/
 
-- **Assets**  
-  https://jekyllrb.com/docs/step-by-step/07-assets/
+  + **Assets**  
+    https://jekyllrb.com/docs/step-by-step/07-assets/
 
-- **Writing Posts**  
-  https://jekyllrb.com/docs/step-by-step/08-blogging/
+  + **Writing Posts**  
+    https://jekyllrb.com/docs/step-by-step/08-blogging/
 
-- **Collection**  
-  https://jekyllrb.com/docs/step-by-step/09-collections/
+  + **Collection**  
+    https://jekyllrb.com/docs/step-by-step/09-collections/
 
-- **Deployment**  
-  https://jekyllrb.com/docs/step-by-step/10-deployment/
+  + **Deployment**  
+    https://jekyllrb.com/docs/step-by-step/10-deployment/
+  
+  + **Theme**
 
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
