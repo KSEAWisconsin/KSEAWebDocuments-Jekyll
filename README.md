@@ -74,6 +74,38 @@ Containing document related to using (installing) Jekyll
   - *Last Update:* Sep. 28. 2019
   - *Author:* Hyecheol (Jerry) Jang
 
+***TODO: Files below must be created, and needs to be written not only containing the information indicated, but also the related information. Think aboug how we can use this functions to make our website***
+- **Liquid**  
+  https://jekyllrb.com/docs/step-by-step/02-liquid/
+
+- **Directory Structure**
+  https://jekyllrb.com/docs/structure/
+
+- **Front Matter**  
+  https://jekyllrb.com/docs/step-by-step/03-front-matter/  
+  YAML
+
+- **Basic Layout**  
+  https://jekyllrb.com/docs/step-by-step/04-layouts/
+
+- **Includes**  
+  https://jekyllrb.com/docs/step-by-step/05-includes/
+
+- **Data Files**  
+  https://jekyllrb.com/docs/step-by-step/06-data-files/
+
+- **Assets**
+  https://jekyllrb.com/docs/step-by-step/07-assets/
+
+- **Writing Posts**
+  https://jekyllrb.com/docs/step-by-step/08-blogging/
+
+- **Collection**
+  https://jekyllrb.com/docs/step-by-step/09-collections/
+
+- **Deployment**
+  https://jekyllrb.com/docs/step-by-step/10-deployment/
+
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
