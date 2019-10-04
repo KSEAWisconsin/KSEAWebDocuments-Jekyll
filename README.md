@@ -78,7 +78,7 @@ Containing document related to using (installing) Jekyll
 - **Liquid**  
   https://jekyllrb.com/docs/step-by-step/02-liquid/
 
-- **Directory Structure**
+- **Directory Structure**  
   https://jekyllrb.com/docs/structure/
 
 - **Front Matter**  
@@ -94,16 +94,16 @@ Containing document related to using (installing) Jekyll
 - **Data Files**  
   https://jekyllrb.com/docs/step-by-step/06-data-files/
 
-- **Assets**
+- **Assets**  
   https://jekyllrb.com/docs/step-by-step/07-assets/
 
-- **Writing Posts**
+- **Writing Posts**  
   https://jekyllrb.com/docs/step-by-step/08-blogging/
 
-- **Collection**
+- **Collection**  
   https://jekyllrb.com/docs/step-by-step/09-collections/
 
-- **Deployment**
+- **Deployment**  
   https://jekyllrb.com/docs/step-by-step/10-deployment/
 
 ### Static Website Builder Research
