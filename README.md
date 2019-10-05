@@ -109,6 +109,9 @@ Containing document related to using (installing) Jekyll
   
   + **Theme**
 
+- **Process of Generating Theme**  
+  Need to summarize information and important steps in the [link 1](http://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko), [Link 2](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem), and find more relevent data about the way to generate the theme. If we have to know some knowledge of Ruby, it is requested to place here.
+
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
