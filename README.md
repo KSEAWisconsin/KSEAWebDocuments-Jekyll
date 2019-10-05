@@ -115,6 +115,7 @@ Containing document related to using (installing) Jekyll
 - **Design**  
   Make the design of the site, all of **Desktop**, **Tablet**, and **Mobile** site.
 
+
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
 - Basic Description
