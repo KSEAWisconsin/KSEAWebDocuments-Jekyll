@@ -43,8 +43,8 @@ The procedures after you submit the pull request is same as collaborators'. Read
 The estimated plan for this project is illustrated below
 - Sep. 24: Select base open-source project that will use for this project (**Finish**)
   + We Selected **Jekyll**
-- Oct. 05: Finish installing required environment (**On-going**)
-- Oct. 19: Designing Website / Obtain basic knowledge of the selected open-source project (**On-going**)
+- Oct. 04 ~~Oct. 05~~: Finish installing required environment (**Finish**)
+- Oct. 19: Designing Website / Obtain basic knowledge of Jekyll (**On-going**)
 - Dec. 01: Finish Development
 - Dec. 25: Test Initiated
 - Jan. 20: Start service on AWS
@@ -60,17 +60,61 @@ The estimated plan for this project is illustrated below
 
 
 ## Contents
-### Error While Installing Jekyll
-This file has been generated to report errors while installing Jekyll, and report the solutions for those.
-- Failed to build gem native extension
-- ERR_CONNECTION_REFUSED while trying to access from the other device
-- *Last Update:* Sep. 27. 2019
-- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
+### Jekyll  
+Containing document related to using (installing) Jekyll
+- **Error While Installing Jekyll**  
+  This file has been generated to report errors while installing Jekyll, and report the solutions for those.
+  - Failed to build gem native extension
+  - ERR_CONNECTION_REFUSED while trying to access from the other device
+  - *Last Update:* Sep. 27. 2019
+  - *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
 
-### Jekyll Install Procedure (Ubuntu)
-Containing procedures to install Jekyll, from the beginning (setting up the requirements)
-- *Last Update:* Sep. 28. 2019
-- *Author:* Hyecheol (Jerry) Jang
+- **Jekyll Install Procedure (Ubuntu)**  
+  Containing procedures to install Jekyll, from the beginning (setting up the requirements)
+  - *Last Update:* Sep. 28. 2019
+  - *Author:* Hyecheol (Jerry) Jang
+
+***TODO: Files below must be created, and needs to be written not only containing the information indicated, but also the related information. Think aboug how we can use this functions to make our website***
+- **Directory Structure**  
+  Needs to contain all information below, and the other useful information you found
+  https://jekyllrb.com/docs/structure/
+  
+  + **Liquid**  
+    https://jekyllrb.com/docs/step-by-step/02-liquid/
+
+  + **Front Matter**  
+    https://jekyllrb.com/docs/step-by-step/03-front-matter/  
+    YAML
+
+  + **Basic Layout**  
+    https://jekyllrb.com/docs/step-by-step/04-layouts/
+
+  + **Includes**  
+    https://jekyllrb.com/docs/step-by-step/05-includes/
+
+  + **Data Files**  
+    https://jekyllrb.com/docs/step-by-step/06-data-files/
+
+  + **Assets**  
+    https://jekyllrb.com/docs/step-by-step/07-assets/
+
+  + **Writing Posts**  
+    https://jekyllrb.com/docs/step-by-step/08-blogging/
+
+  + **Collection**  
+    https://jekyllrb.com/docs/step-by-step/09-collections/
+
+  + **Deployment**  
+    https://jekyllrb.com/docs/step-by-step/10-deployment/
+  
+  + **Theme**
+
+- **Process of Generating Theme**  
+  Need to summarize information and important steps in the [link 1](http://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko), [Link 2](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem), and find more relevent data about the way to generate the theme. If we have to know some knowledge of Ruby, it is requested to place here.
+
+- **Design**  
+  Make the design of the site, all of **Desktop**, **Tablet**, and **Mobile** site.
+
 
 ### Static Website Builder Research
 Conduct research on the well-known static website builders (The one that receive more than 10K starts on github, data retrieved from [staticgen](https://www.staticgen.com/)
