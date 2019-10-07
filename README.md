@@ -60,6 +60,9 @@ The estimated plan for this project is illustrated below
 
 
 ## Contents
+### Design
+Make the design of the site, all of **Desktop**, **Tablet**, and **Mobile** site.
+
 ### Jekyll  
 Containing document related to using (installing) Jekyll
 - **Error While Installing Jekyll**  
@@ -74,7 +77,6 @@ Containing document related to using (installing) Jekyll
   - *Last Update:* Sep. 28. 2019
   - *Author:* Hyecheol (Jerry) Jang
 
-***TODO: Files below must be created, and needs to be written not only containing the information indicated, but also the related information. Think aboug how we can use this functions to make our website***
 - **Directory Structure**  
   Needs to contain all information below, and the other useful information you found
   https://jekyllrb.com/docs/structure/
@@ -111,9 +113,6 @@ Containing document related to using (installing) Jekyll
 
 - **Process of Generating Theme**  
   Need to summarize information and important steps in the [link 1](http://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko), [Link 2](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem), and find more relevent data about the way to generate the theme. If we have to know some knowledge of Ruby, it is requested to place here.
-
-- **Design**  
-  Make the design of the site, all of **Desktop**, **Tablet**, and **Mobile** site.
 
 
 ### Static Website Builder Research
