@@ -1,98 +1,77 @@
 # Liquid
 [Official Site](https://jekyllrb.com/docs/step-by-step/02-liquid/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Front Matter
 [Official Site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Basic Layout
 [Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Includes
 [Official Site](https://jekyllrb.com/docs/step-by-step/05-includes/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Data Files
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Assets
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Writing Posts
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Collection
 [Official Site](https://jekyllrb.com/docs/step-by-step/09-collections/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Deployment
 [Official Site](https://jekyllrb.com/docs/step-by-step/10-deployment/)
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
+### Features
 
-## Weeknesses
 
 # Theme
-## Basic Descriptions
 
-## Features
+### Basic Descriptions
 
-## Strengths
-
-## Weeknesses
+### Features
