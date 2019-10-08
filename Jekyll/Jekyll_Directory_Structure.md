@@ -21,6 +21,26 @@
 # Front Matter
 [Official Site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
 
+To use the font matter, we need to refer this:
+
+```
+---
+title: Home
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
+```
+
+Looks like more complicate than HTML, but it is highly related with **Layout**.
+
 ### Basic Descriptions
 - Font style
 
