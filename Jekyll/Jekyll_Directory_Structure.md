@@ -41,20 +41,10 @@ title: Home
 
 Looks like more complicate than HTML, but it is highly related with **Layout**.
 
-### Basic Descriptions
-- Font style
-
-### Features
-- Same output with raw HTML but takes more source code
-
-
-# Basic Layout
+# Layout
 [Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)
-
-### Basic Descriptions
 - Markdown as well as HTML
 
-### Features
 
 
 # Includes
