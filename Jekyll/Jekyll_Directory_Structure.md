@@ -21,6 +21,14 @@
 # Front Matter
 [Official Site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
 
+- Snippet of YAML which sits between two triple-dashed lines at the top of a file.  
+Ex)
+```
+---
+my_number: 5
+---
+```
+
 To use the font matter, we need to refer this:
 
 ```
