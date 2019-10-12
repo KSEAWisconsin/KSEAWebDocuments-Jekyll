@@ -61,7 +61,7 @@ The estimated plan for this project is illustrated below
 
 ## Contents
 ### Design
-Containing design of the site, all of **Desktop**, **Tablet**, and **Mobile** site.  
+Containing design of the site, all of **Desktop** and **Mobile** site.  
 Only final exported prototype will be stored, the working copy is maintained on the other private repository.
 
 ### Jekyll  
