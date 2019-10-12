@@ -1,21 +1,42 @@
 # Liquid
 [Official Site](https://jekyllrb.com/docs/step-by-step/02-liquid/)  
-[Liquid Design example code](https://www.sitepoint.com/liquid-design/)  
-[Liquid Github](https://github.com/Shopify/liquid)
+[Liquid Github](https://github.com/Shopify/liquid)  
+[Liquid Documentation](https://shopify.github.io/liquid/)
 
 ### Basic Descriptions
-- [Liquid Layout Demo](https://codepen.io/nickpettit/full/htviL)
-- A template engine which was written with very specific requirements
-- Uses relative units instead of fixed units.
-  - Fill the width of the page by percentages instead of pixels.
-  - But that doesn't mean it will not work with such as ems.
-  
+- A template language which contains three main parts (**objects**, **tags**, and **filters**), with very specific requirements
 
 ### Features
-- Allow the users to edit the appearance of your application but don't let them to run **insecure code on your server**.
-- Render templates direct
-- PHP style
-- Use template engine which does HTML just as well as emails.
+- Allow to reuse common parts of website instead of making separated HTML files by hands.
+  + Need to tell Jekyll to process Liquid on **[Front Matter](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Jekyll_Directory_Structure.md#front-matter)**.
+  + Front Matter contains data for Liquid object
+- Objects  
+  + `{{ page.title }}`
+  + To tell Liquid to output contents, using `{{` and `}}` to represent object
+  + When sample code contains in the page, Liquid will render the contents of an object named `page.title`
+- Tags  
+  ```
+  {% if page.show_sidebar %}
+    <div class = "sidebar">
+      sidebar content
+    </div>
+  {% endif %}
+  ```
+  + Creating logic and control flow for template
+  + Denoted by `{%` and `%}`
+  + Tag does **not produce any visible text**, just *help* site-generator to build the page without showing the logic behinds it.
+  + More information for tag supported by Jekyll can be found at the [official documentation](https://jekyllrb.com/docs/liquid/tags/)
+  + Tag are categorized as three types
+    * [Control Flow](https://shopify.github.io/liquid/tags/control-flow/)
+    * [Iteration](https://shopify.github.io/liquid/tags/iteration/)
+    * [Variable](https://shopify.github.io/liquid/tags/variable/)
+    * See more details about available tags and usage of it on Liquid's official documentation site
+- Filters
+  + Used to change the output of a Liquid object
+  + denoted by `|`
+  + Example: `{{ "Hi" | capitalize }}`  
+    Will gives output of `Hi`
+  + Not only the [standard filters (see the list on the responsible category)](https://shopify.github.io/liquid/filters/abs/) of Liquid, Jekyll also has its [own filters](https://jekyllrb.com/docs/liquid/filters/).
 
 
 # Front Matter
