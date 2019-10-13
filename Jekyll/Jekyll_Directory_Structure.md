@@ -42,52 +42,94 @@
 # Front Matter
 [Official Site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
 
-- Snippet of YAML which sits between two triple-dashed lines at the top of a file.  
-Ex)
+Front matter lives between **two triple dashed lines (---)** at the **top** of the file.  
+Write YAML to set variables.
+
+For example,
 ```
 ---
-my_number: 5
+hello_text: "Hello there!"
 ---
+...
+    <p>{{ page.hello_text }}</p>
+...
+```
+will give the result of "Hello there!" inside the paragraph.
+- *hello_text* is a name of the variable.
+- *"Hello there!"* is the value of the variable.
+- To use this, must use liquid.
+
+We can put Arrays inside the **front matter** like this:
+```
+fruit:
+  - apple
+  - banana
+  - orange
+```
+Each item is indented with two spaces then starts with a hyphen.  
+To **set the value** in the body of the page we will **iterate over the items** and output them as an **unordered list**.
+```
+<ul>
+  {% for item in page.fruit %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
 ```
 
-To use the font matter, we need to refer this:
-
+Also you can put nested array inside the front matter:
 ```
----
-title: Home
----
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <h1>{{ "Hello World!" | downcase }}</h1>
-  </body>
-</html>
+fruit:
+  - name: apple
+    cost: $1
+  - name: orange
+    cost: $1
 ```
-
-Looks like more complicate than HTML, but it is highly related with **Layout**.
+Instead of having strings as the array items, we want them to be **keys and values**.
+```
+<ul>
+  {% for item in page.fruit %}
+    <li>{{ item.name }}, cost: {{ item.cost }}</li>
+  {% endfor %}
+</ul>
+```
 
 # Layout
-[Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)
+[Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)  
+[Reference](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/)
+
+
 - Markdown as well as HTML
+- In Jekyll, we can use layouts to **eliminate the repetitions** page by page.
+  + Like *header*, *footer*, and same codes, then we can use default.html as layout.
+    - *default.layout* is a layout that contains all the same matters.
+  + Can use layout inside the layout.  
 
+Suppose you have a *default.html* and you want to add all the single pages, then use  
+```
+---
+layout: default
+---
+```
+at the most upper part then you can see every single *default.html* page where you used that format. You can set veriables inside the layout and can set the value outside the layout, or other html.  
 
+Once again, the purpose of the layout is **reducing repetitions**.  
+
+Also inside the code, we can put conditions with the liquid format. On our landing pages (which used the default.html as a layout) we can set conditions or values in the front matter.
 
 # Includes
 [Official Site](https://jekyllrb.com/docs/step-by-step/05-includes/)
 
 ### Basic Descriptions
+- Also the purpose is decreasing the duplicated source codes on the website.
 
-### Features
-
+To use an include we need to create a new folder called *_includes*. Inside this we create the duplicatedCodes.html. Now we can implement this source code across to each page. Replace the duplicated codes like this: `{% include duplicatedCodes.html %}`
 
 # Data Files
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
 
 ### Basic Descriptions
+- Jekyll supports loading data from **YAML**, **JSON**, and **CSV**
+- Need to be located in a *_data* directory
 
 ### Features
 
