@@ -57,16 +57,16 @@ hello_text: "Hello there!"
 will give the result of "Hello there!" inside the paragraph.
 - *hello_text* is a name of the variable.
 - *"Hello there!"* is the value of the variable.
-- To use this, must use liquid.
+- To use this, must use **[liquid](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Jekyll_Directory_Structure.md#liquid)**.
 
-We can put Arrays inside the **front matter** like this:
+We can put **Arrays** inside the front matter like this:
 ```
 fruit:
   - apple
   - banana
   - orange
 ```
-Each item is indented with two spaces then starts with a hyphen.  
+Each item is **indented with two spaces then starts with a hyphen**.  
 To **set the value** in the body of the page we will **iterate over the items** and output them as an **unordered list**.
 ```
 <ul>
@@ -93,10 +93,10 @@ Instead of having strings as the array items, we want them to be **keys and valu
 </ul>
 ```
 
+
 # Layout
 [Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)  
 [Reference](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/)
-
 
 - Markdown as well as HTML
 - In Jekyll, we can use layouts to **eliminate the repetitions** page by page.
