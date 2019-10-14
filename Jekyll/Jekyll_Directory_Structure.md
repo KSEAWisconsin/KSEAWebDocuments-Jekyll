@@ -128,10 +128,30 @@ To use an include we need to create a new folder called *_includes*. Inside this
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
 
 ### Basic Descriptions
-- Jekyll supports loading data from **YAML**, **JSON**, and **CSV**
+- Loading data from **YAML**, **JSON**, and **CSV**
 - Need to be located in a *_data* directory
 
-### Features
+Creating a folder, *_data*, and inside this we can create a file *fileName.csv*. The data file is abailable in Jekyll at *site.data.fileName* and we can run this through the *jsonify* filter to output an **array** our JavaScript can understand.  
+In JavaScript, we can use jsonify files directly into the variables, so here is the example: `let name = {{ site.data.[fileName] | jsonify }};`.
+
+For the json type, also can access like an **array**.  
+Suppose that you have a file *authors.json* like this:
+```
+{
+  "mike": {
+    "full_name": "Mike Neumegen",
+    "image_path": "/images/mike.jpg",
+    "twitter_handle": "mikeneumegen"
+  },
+  "george": {
+    "full_name": "George Phillips",
+    "image_path": "/images/george.jpg",
+    "twitter_handle": "gphillips_nz"
+  }
+}
+```
+then you can access the data of mike like `{{ site.data.authors[mike] }}`.  
+Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.
 
 
 # Assets
