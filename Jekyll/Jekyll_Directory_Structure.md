@@ -34,7 +34,7 @@
 - Filters
   + Used to change the output of a Liquid object
   + denoted by `|`
-  + Example: `{{ "Hi" | capitalize }}`  
+  + Example: `{{ "hi" | capitalize }}`  
     Will gives output of `Hi`
   + Not only the [standard filters (see the list on the responsible category)](https://shopify.github.io/liquid/filters/abs/) of Liquid, Jekyll also has its [own filters](https://jekyllrb.com/docs/liquid/filters/).
 
@@ -122,7 +122,8 @@ Also inside the code, we can put conditions with the liquid format. On our landi
 ### Basic Descriptions
 - Also the purpose is decreasing the duplicated source codes on the website.
 
-To use an include we need to create a new folder called *_includes*. Inside this we create the duplicatedCodes.html. Now we can implement this source code across to each page. Replace the duplicated codes like this: `{% include duplicatedCodes.html %}`
+To use an include we need to create a new folder called *_includes*. Inside this we create the duplicatedCodes.html. Now we can implement this source code across to each page. Replace the duplicated codes like this:  
+`{% include duplicatedCodes.html %}`
 
 # Data Files
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
@@ -155,7 +156,7 @@ Also you can set the value of the author to access each by each inside the front
 
 
 # Assets
-[Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
+[Official Site]( )
 
 ### Basic Descriptions
 
@@ -166,6 +167,8 @@ Also you can set the value of the author to access each by each inside the front
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
 
 ### Basic Descriptions
+- Live in a folder called *_posts*.
+
 
 ### Features
 
