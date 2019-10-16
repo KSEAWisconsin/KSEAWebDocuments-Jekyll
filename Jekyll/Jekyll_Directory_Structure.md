@@ -158,10 +158,6 @@ Also you can set the value of the author to access each by each inside the front
 # Assets
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
 
-### Basic Descriptions
-
-### Features
-
 
 # Writing Posts
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
