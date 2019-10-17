@@ -183,10 +183,3 @@ Also you can set the value of the author to access each by each inside the front
 ### Basic Descriptions
 
 ### Features
-
-
-# Theme
-
-### Basic Descriptions
-
-### Features
