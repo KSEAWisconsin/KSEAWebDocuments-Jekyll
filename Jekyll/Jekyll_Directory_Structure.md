@@ -86,6 +86,7 @@ hello_text: "Hello there!"
 ...
 ```
 will give the result of "Hello there!" inside the paragraph.
+- By the `page` variable, we can access the front matter.
 - *hello_text* is a name of the variable.
 - *"Hello there!"* is the value of the variable.
 - To use this, must use **[liquid](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Jekyll_Directory_Structure.md#liquid)**.
