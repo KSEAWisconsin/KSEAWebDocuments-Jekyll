@@ -44,7 +44,8 @@ The estimated plan for this project is illustrated below
 - Sep. 24: Select base open-source project that will use for this project (**Finish**)
   + We Selected **Jekyll**
 - Oct. 04 ~~Oct. 05~~: Finish installing required environment (**Finish**)
-- Oct. 19: Designing Website / Obtain basic knowledge of Jekyll (**On-going**)
+- Oct. 25 ~~Oct. 19~~: Obtain basic knowledge of Jekyll (**On-going**)
+- Nov. 01 ~~Oct. 19~~: Designing Website / Obtain basic knowledge of Jekyll (**On-going**)
 - Dec. 01: Finish Development
 - Dec. 25: Test Initiated
 - Jan. 20: Start service on AWS
