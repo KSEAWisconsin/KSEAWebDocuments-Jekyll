@@ -1,43 +1,9 @@
-# Jekyll File Structure
-## _config.yml
-Holds the configuration for your Jekyll site. This is commonly used to:
-- Set **global variables** on the site
-- Configure collections or defaults
-- **Specify runtime variables** we want to run every time
-
-## _drafts
-All our unpublished blog posts. This allows us to work on blog posts **without publishing them** to the live site.
-
-## _includes
-Page snippets which can be included throughout our site. Includes are often **used for page sections** which are duplicated across the site like a newsletter subscribe form.
-
-## _layouts
-**Templates which wrap around content**. All the repeating HTML on our site like the **header**, **footer** and **navigation** typically live in a layout.
-
-## _posts
-Contains our blog posts usually written in Markdown.
-
-## _data
-`_data` contains YAML, JSON and CSV files. The data in these files can be used throughout the Jekyll site.
-
-## _site
-Once Jekyll has built our site it puts the entire static site including all our assets in `_site`.
-
-## .jekyll-metadata
-This file is used by Jekyll’s incremental build feature to **keep track of the files** which have changed.
-
-## Other Files/Folders
-Files with front matter are processed and output to `_site` on a build. Files **without** front matter (typically CSS, JavaScript and image files) are copied straight to `_site` on a build.
-
 # Liquid
 [Official Site](https://jekyllrb.com/docs/step-by-step/02-liquid/)  
 [Liquid Github](https://github.com/Shopify/liquid)  
 [Liquid Documentation](https://shopify.github.io/liquid/)
 
-### Basic Descriptions
 - A template language which contains three main parts (**objects**, **tags**, and **filters**), with very specific requirements
-
-### Features
 - Allow to reuse common parts of website instead of making separated HTML files by hands.
   + Need to tell Jekyll to process Liquid on **[Front Matter](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Jekyll_Directory_Structure.md#front-matter)**.
   + Front Matter contains data for Liquid object
@@ -130,23 +96,29 @@ Instead of having strings as the array items, we want them to be **keys and valu
 [Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)  
 [Reference](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/)
 
-- Markdown as well as HTML
-- In Jekyll, we can use layouts to **eliminate the repetitions** page by page.
-  + Like *header*, *footer*, and same codes, then we can use default.html as layout.
-    - *default.layout* is a layout that contains all the same matters.
-  + Can use layout inside the layout.  
+- In Jekyll, we can use layouts to **eliminate the redundant codes on several pages**.
+- For CSS files that will be imported for each pages and other repeating part (like page header, navbar, and footer elements), usually written on `<head>` and `<footer>`, then we should use **layout** to prevent copy and pasting duplicated code.
+  + use *default layout* to contain all the same matters.
+  + Can use layout inside of the layout.  
 
-Suppose you have a *default.html* and you want to add all the single pages, then use  
+See code sample at **[Official Site](https://jekyllrb.com/docs/step-by-step/04-layouts/)**  
+
+Suppose we have a `default.html`, and you want to use this layout's structure for a pages, then we should add ***front matter*** like   
 ```
 ---
 layout: default
 ---
 ```
-at the most upper part then you can see every single *default.html* page where you used that format. You can set veriables inside the layout and can set the value outside the layout, or other html.  
+at the most upper part.  
+You can set variables inside and outside of the layout, and on hte other html.  
 
-Once again, the purpose of the layout is **reducing repetitions**.  
+**Conclusion**  
+- Use layout properly as a template for each page.  
+- I felt concept of layout in Jekyll is similar to the class of other Object-Oriented Programming languages (like Java, C++, and so on)
+  + **Capsulize** the contents and **increase reusability** of code
+  + Able to let end-user to **change contents without knowing how developer designed the code** (Abstract)
+- Overall, this will increase the productivity of website development
 
-Also inside the code, we can put conditions with the liquid format. On our landing pages (which used the default.html as a layout) we can set conditions or values in the front matter.
 
 # Includes
 [Official Site](https://jekyllrb.com/docs/step-by-step/05-includes/)
@@ -215,3 +187,35 @@ Also you can set the value of the author to access each by each inside the front
 ### Basic Descriptions
 
 ### Features
+
+
+# Jekyll File Structure
+## _config.yml
+Holds the configuration for your Jekyll site. This is commonly used to:
+- Set **global variables** on the site
+- Configure collections or defaults
+- **Specify runtime variables** we want to run every time
+
+## _drafts
+All our unpublished blog posts. This allows us to work on blog posts **without publishing them** to the live site.
+
+## _includes
+Page snippets which can be included throughout our site. Includes are often **used for page sections** which are duplicated across the site like a newsletter subscribe form.
+
+## _layouts
+**Templates which wrap around content**. All the repeating HTML on our site like the **header**, **footer** and **navigation** typically live in a layout.
+
+## _posts
+Contains our blog posts usually written in Markdown.
+
+## _data
+`_data` contains YAML, JSON and CSV files. The data in these files can be used throughout the Jekyll site.
+
+## _site
+Once Jekyll has built our site it puts the entire static site including all our assets in `_site`.
+
+## .jekyll-metadata
+This file is used by Jekyll’s incremental build feature to **keep track of the files** which have changed.
+
+## Other Files/Folders
+Files with front matter are processed and output to `_site` on a build. Files **without** front matter (typically CSS, JavaScript and image files) are copied straight to `_site` on a build.
