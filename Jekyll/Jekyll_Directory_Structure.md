@@ -123,11 +123,13 @@ You can set variables inside and outside of the layout, and on hte other html.
 # Includes
 [Official Site](https://jekyllrb.com/docs/step-by-step/05-includes/)
 
-### Basic Descriptions
-- Also the purpose is decreasing the duplicated source codes on the website.
-
-To use an include we need to create a new folder called *_includes*. Inside this we create the duplicatedCodes.html. Now we can implement this source code across to each page. Replace the duplicated codes like this:  
-`{% include duplicatedCodes.html %}`
+- To **reduce the duplicated source codes** on the website  
+- To use an include we need to create a new folder called `_includes`
+  + Inside this we create the `duplicatedCodes.html`
+  + Write down duplicated part on `duplicatedCodes.html`
+  + Replace the duplicated codes with this tag: `{% include duplicatedCodes.html %}`  
+    This code will retrieve code fragment from `_includes/duplicatedCodes.html`
+- Using this to **increase readability of code**, working ***similarly as "Separating methods" on programming***
 
 # Data Files
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
