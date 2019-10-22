@@ -136,13 +136,14 @@ You can set variables inside and outside of the layout, and on hte other html.
 
 ### Basic Descriptions
 - Loading data from **YAML**, **JSON**, and **CSV**
-- Need to be located in a *_data* directory
+- Need to be located in a `_data` directory
 
-Creating a folder, *_data*, and inside this we can create a file *fileName.csv*. The data file is abailable in Jekyll at *site.data.fileName* and we can run this through the *jsonify* filter to output an **array** our JavaScript can understand.  
+Creating a folder, `_data`, and inside this we can create a file `fileName.csv`.  
+The data file is available at `site.data.fileName`, and we can run this through the *jsonify* filter to output an **array** our JavaScript can understand.  
 In JavaScript, we can use jsonify files directly into the variables, so here is the example: `let name = {{ site.data.[fileName] | jsonify }};`.
 
 For the json type, also can access like an **array**.  
-Suppose that you have a file *authors.json* like this:
+Suppose that you have a file `authors.json` like this:
 ```
 {
   "mike": {
@@ -159,6 +160,11 @@ Suppose that you have a file *authors.json* like this:
 ```
 then you can access the data of mike like `{{ site.data.authors[mike] }}`.  
 Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.
+
+#### Need to Fix
+- where you get information of jsonify related information
+- Compare between JSON, YAML, and CSV
+  + Which one will be most suitable for our project
 
 
 # Assets
