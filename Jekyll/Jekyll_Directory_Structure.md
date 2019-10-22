@@ -163,7 +163,24 @@ Also you can set the value of the author to access each by each inside the front
 
 # Assets
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
+Structure of assets in Jekyll site:
+```
+├── assets
+|   ├── css
+|   ├── images
+|   └── js
+```
 
+You can use either CSS or Sass.  
+※[Sass](https://sass-lang.com/) (Syntactically Awesome Style Sheets) is kind of extension of CSS. You can put much more variables and nestings, and also have many functions.
+
+For Sass,
+- create a Sass file at `/assets/css/styles.scss` with the following content:
+```
+---
+---
+@import "main";
+```
 
 # Writing Posts
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
