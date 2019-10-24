@@ -132,7 +132,8 @@ You can set variables inside and outside of the layout, and on hte other html.
 - Using this to **increase readability of code**, working ***similarly as "Separating methods" on programming***
 
 # Data Files
-[Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)
+[Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)  
+[Reference](https://learn.cloudcannon.com/jekyll/introduction-to-data-files/)
 
 ### Basic Descriptions
 - Loading data from **YAML**, **JSON**, and **CSV**
@@ -162,7 +163,7 @@ then you can access the data of mike like `{{ site.data.authors[mike] }}`.
 Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.
 
 #### Need to Fix
-- where you get information of jsonify related information
+
 - Compare between JSON, YAML, and CSV
   + Which one will be most suitable for our project
 
