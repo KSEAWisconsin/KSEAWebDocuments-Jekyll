@@ -1,13 +1,13 @@
 # JSON
 [Official site](https://www.json.org/)
 
-### What is JSON?
 JSON (JavaScript Object Notation) is a lightweight data-interchange format. Easy for humans to read and write, easy for machines to parse and generate.
 
 JSON is built on:
 - Collection of name/value pairs.
 - An ordered list of values.
 
+## JSON Formats
 ### Object
 - An unordered set of name/value pairs.  
 ![objectImage](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types/JSON/object.png)  
@@ -32,7 +32,6 @@ For example:
 
 Objects and arrays use values with that form.
 
-
 ### String
 - A sequence of Unicode characters wrapped in double quotes  
 ![stringImage](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types/JSON/String.png)  
@@ -41,12 +40,13 @@ For example:
 "Deja Vu I've just been in this place before"
 ```
 
-
 ### Number
 - Usually use digit numbers  
 ![numberImage](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types/JSON/number.png)
 
-
 ### Whitespace
 - Can be inserted between any pair of tokens excepting a few encoding deatails  
 ![whitespaceImage](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types/JSON/whitespace.png)
+
+
+## Use JSON on Jekyll
