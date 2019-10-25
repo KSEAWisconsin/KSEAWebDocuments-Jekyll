@@ -1,3 +1,35 @@
+# Jekyll File Structure
+## _config.yml
+Holds the configuration for your Jekyll site. This is commonly used to:
+- Set **global variables** on the site
+- Configure collections or defaults
+- **Specify runtime variables** we want to run every time
+
+## _drafts
+All our unpublished blog posts. This allows us to work on blog posts **without publishing them** to the live site.
+
+## _includes
+Page snippets which can be included throughout our site. Includes are often **used for page sections** which are duplicated across the site like a newsletter subscribe form.
+
+## _layouts
+**Templates which wrap around content**. All the repeating HTML on our site like the **header**, **footer** and **navigation** typically live in a layout.
+
+## _posts
+Contains our blog posts usually written in Markdown.
+
+## _data
+`_data` contains YAML, JSON and CSV files. The data in these files can be used throughout the Jekyll site.
+
+## _site
+Once Jekyll has built our site it puts the entire static site including all our assets in `_site`.
+
+## .jekyll-metadata
+This file is used by Jekyll’s incremental build feature to **keep track of the files** which have changed.
+
+## Other Files/Folders
+Files with front matter are processed and output to `_site` on a build. Files **without** front matter (typically CSS, JavaScript and image files) are copied straight to `_site` on a build.
+
+
 # Liquid
 [Official Site](https://jekyllrb.com/docs/step-by-step/02-liquid/)  
 [Liquid Github](https://github.com/Shopify/liquid)  
@@ -135,7 +167,6 @@ You can set variables inside and outside of the layout, and on hte other html.
 [Official Site](https://jekyllrb.com/docs/step-by-step/06-data-files/)  
 [Reference](https://learn.cloudcannon.com/jekyll/introduction-to-data-files/)
 
-### Basic Descriptions
 - Loading data from **YAML**, **JSON**, and **CSV**
 - Need to be located in a `_data` directory
 
@@ -160,12 +191,9 @@ Suppose that you have a file `authors.json` like this:
 }
 ```
 then you can access the data of mike like `{{ site.data.authors[mike] }}`.  
-Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.
+Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.  
 
-#### Need to Fix
-
-- Compare between JSON, YAML, and CSV
-  + Which one will be most suitable for our project
+Compare between JSON, YAML, and CSV: See [this link](https://github.com/hyecheol123/KSEAWebDocuments/tree/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types)
 
 
 # Assets
@@ -213,35 +241,3 @@ For Sass,
 ### Basic Descriptions
 
 ### Features
-
-
-# Jekyll File Structure
-## _config.yml
-Holds the configuration for your Jekyll site. This is commonly used to:
-- Set **global variables** on the site
-- Configure collections or defaults
-- **Specify runtime variables** we want to run every time
-
-## _drafts
-All our unpublished blog posts. This allows us to work on blog posts **without publishing them** to the live site.
-
-## _includes
-Page snippets which can be included throughout our site. Includes are often **used for page sections** which are duplicated across the site like a newsletter subscribe form.
-
-## _layouts
-**Templates which wrap around content**. All the repeating HTML on our site like the **header**, **footer** and **navigation** typically live in a layout.
-
-## _posts
-Contains our blog posts usually written in Markdown.
-
-## _data
-`_data` contains YAML, JSON and CSV files. The data in these files can be used throughout the Jekyll site.
-
-## _site
-Once Jekyll has built our site it puts the entire static site including all our assets in `_site`.
-
-## .jekyll-metadata
-This file is used by Jekyll’s incremental build feature to **keep track of the files** which have changed.
-
-## Other Files/Folders
-Files with front matter are processed and output to `_site` on a build. Files **without** front matter (typically CSS, JavaScript and image files) are copied straight to `_site` on a build.
