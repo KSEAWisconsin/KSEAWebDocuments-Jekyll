@@ -6,8 +6,8 @@ Score will be evaluated by project bases, and at the top of the document, indivi
 ## Individuals' Current Score
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent   | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
-| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 39            | 1    |                    |
-| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 25            | 2    |                    |
+| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 40            | 1    |                    |
+| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 34            | 2    |                    |
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 12.5          | 3    |                    |
 | Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 8.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
@@ -123,3 +123,17 @@ Total Score: 10
      Wrote Solution for *"ERR_CONNECTION_REFUSED"*: Score 2
    - **Chanwoong Jhon**
      Reported *"ERR_CONNECTION_REFUSED"*: Score 1
+
+
+### Research on Jekyll
+1. **How to Make Jekyll Theme**  
+   Total Score: 10
+   - **Yongsang Park**
+     Participation Rate: 90%
+     Score: 9
+   - **Hyecheol (Jerry) Jang**
+     Participation Rate: 10%
+     Score: 1
+
+### Website Design
+
