@@ -73,18 +73,6 @@ Only final exported prototype will be stored, the working copy is maintained on 
 
 ### Jekyll  
 Containing document related to using (installing) Jekyll
-- **Error While Installing Jekyll**  
-  This file has been generated to report errors while installing Jekyll, and report the solutions for those.
-  - Failed to build gem native extension
-  - ERR_CONNECTION_REFUSED while trying to access from the other device
-  - *Last Update:* Sep. 27. 2019
-  - *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
-
-- **Jekyll Install Procedure (Ubuntu)**  
-  Containing procedures to install Jekyll, from the beginning (setting up the requirements)
-  - *Last Update:* Sep. 28. 2019
-  - *Author:* Hyecheol (Jerry) Jang
-
 - **Directory Structure**  
   Needs to contain all information below, and the other useful information you found
   https://jekyllrb.com/docs/structure/
@@ -119,8 +107,20 @@ Containing document related to using (installing) Jekyll
   
   + **Theme**
 
-- **Process of Generating Theme**  
-  Need to summarize information and important steps in the [link 1](http://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko), [Link 2](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem), and find more relevent data about the way to generate the theme. If we have to know some knowledge of Ruby, it is requested to place here.
+**Process of Generating Theme**  
+Review the overall procedure of making Jekyll Theme
+- *Last Update*: Oct. 17. 2019
+- *Author*: Yongsang Park
+**Error While Installing Jekyll**  
+This file has been generated to report errors while installing Jekyll, and report the solutions for those.
+- Failed to build gem native extension
+- ERR_CONNECTION_REFUSED while trying to access from the other device
+- *Last Update:* Sep. 27. 2019
+- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
+**Jekyll Install Procedure (Ubuntu)**  
+Containing procedures to install Jekyll, from the beginning (setting up the requirements)
+- *Last Update:* Sep. 28. 2019
+- *Author:* Hyecheol (Jerry) Jang
 
 
 ### Static Website Builder Research
@@ -132,43 +132,34 @@ Conduct research on the well-known static website builders (The one that receive
   - **Docusaurus.md**
     + *Last Update:* Sep. 24 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
-
   - **Gatsby.md**
     +  Appendix (About GraphQL)
     + *Last Update:* Sep. 22. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
-
   - **GitBook.md**
     + *Last Update:* Sep. 24. 2019
     + *Author:* Chaiyeen Oh
-
   - **Hexo.md**
     + *Last Update:* Sep. 24. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
-
   - **Hugo.md**
     + *Last Update:* Sep. 22. 2019
     + *Author:* Hyecheol (Jerry) Jang
-
   - **Jekyll.md**
     + Octopress (static Contents Management Tool based on Jekyll)
       * Some Description
       * Feature
     + *Last Update:* Sep. 22. 2019
     + *Author:* Yongsang Park, Hyecheol (Jerry) Jang
-
   - **NextJS.md**
     + *Last Update:* Sep. 24. 2019
     + *Author:* Chanwoong Jhon
-
   - **Nuxt.md**
     + *Last Update:* Sep. 21. 2019
     + *Author:* Chaiyeen Oh
-
   - **VuePress.md**
     - *Last Update:* Sep. 24. 2019
     - *Author:* Yongsang Park, Hyecheol (Jerry) Jang  
-
 **ComparingLanguages.md**  
 As a further research, we compared three languages that used by the analyzed static website builders  
 Comparing **Go**, **Ruby**, **JavaScript(Node.JS)**
