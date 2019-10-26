@@ -109,8 +109,8 @@ Total Score: 10
     - **Hyecheol (Jerry) Jang**  
       Participation Rate: 50%  
       Score: 5
-11. **Participated on the Offline Meeting**
-    Participants: Hyecheol (Jerry) Jang, Chanwoong Jhon, Chaiyeen Oh, Yewon Lee, Youna Kim
+11. **Participated on the Offline Meeting**  
+    Participants: Hyecheol (Jerry) Jang, Chanwoong Jhon, Chaiyeen Oh, Yewon Lee, Youna Kim  
     Score: 3
 
 ### Setting Development Environment
@@ -120,20 +120,20 @@ Total Score: 10
 2. **Error While Installing Jekyll**  
    Score 3 per 1 error report
    - **Hyecheol (Jerry) Jang**  
-     Reported/Solved *"Failed to build gem native extenstion"*: Score 3
-     Wrote Solution for *"ERR_CONNECTION_REFUSED"*: Score 2
-   - **Chanwoong Jhon**
+     Reported/Solved *"Failed to build gem native extenstion"*: Score 3  
+     Wrote Solution for *"ERR_CONNECTION_REFUSED"*: Score 2  
+   - **Chanwoong Jhon**  
      Reported *"ERR_CONNECTION_REFUSED"*: Score 1
 
 
 ### Research on Jekyll
 1. **How to Make Jekyll Theme**  
    Total Score: 10
-   - **Yongsang Park**
-     Participation Rate: 90%
+   - **Yongsang Park**  
+     Participation Rate: 90%  
      Score: 9
-   - **Hyecheol (Jerry) Jang**
-     Participation Rate: 10%
+   - **Hyecheol (Jerry) Jang**  
+     Participation Rate: 10%  
      Score: 1
 
 ### Website Design
