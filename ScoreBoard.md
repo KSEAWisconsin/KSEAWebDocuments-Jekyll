@@ -6,18 +6,18 @@ Score will be evaluated by project bases, and at the top of the document, indivi
 ## Individuals' Current Score
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent   | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
-| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 0    |                    |
-| Jocelyn Kim           | Designer                              | Oct.07.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Current     | Current Member     | 0             | 0    |                    |
-| Jin Kim               | Pool Member                           | Sep.26.2019 - Oct.20.2019 | Quit Participating | 0             | 0    |                    |
+| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 29            | 1    |                    |
+| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 25            | 2    |                    |
+| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 12.5          | 3    |                    |
+| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 7.5           | 4    |                    |
+| Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
+| Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
+| David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 9.5  |                    |
+| Jocelyn Kim           | Designer                              | Oct.07.2019 - Current     | Current Member     | 0             | 9.5  |                    |
+| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 0             | 9.5  |                    |
+| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 0             | 9.5  |                    |
+| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Current     | Current Member     | 0             | 9.5  |                    |
+| Jin Kim               | Pool Member                           | Sep.26.2019 - Oct.20.2019 | Quit Participating | 0             | 9.5  |                    |
 
 
 ## Scoring Detail
@@ -79,8 +79,8 @@ Total Score: 10
 7. **NextJS**  
    Total Score: 5
    - **Chanwoong Jhon**  
-     **Participation Rate**: 90%  
-     **Score**: 4.5
+     Participation Rate: 90%  
+     Score: 4.5
    - **Hyecheol (Jerry) Jang**  
      Participation Rate: 10%  
      Score: 0.5
