@@ -6,10 +6,10 @@ Score will be evaluated by project bases, and at the top of the document, indivi
 ## Individuals' Current Score
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent   | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
-| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 29            | 1    |                    |
+| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 39            | 1    |                    |
 | Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 25            | 2    |                    |
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 12.5          | 3    |                    |
-| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 7.5           | 4    |                    |
+| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 8.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
 | Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
 | David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 9.5  |                    |
@@ -111,3 +111,15 @@ Total Score: 10
 11. **Participated on the Offline Meeting**
     Participants: Hyecheol (Jerry) Jang, Chanwoong Jhon, Chaiyeen Oh, Yewon Lee, Youna Kim
     Score: 3
+
+### Setting Development Environment
+1. **Procedure of Installing Jekyll**  
+   Participants: Hyecheol (Jerry) Jang
+   Score: 5
+2. **Error While Installing Jekyll**  
+   Score 3 per 1 error report
+   - **Hyecheol (Jerry) Jang**  
+     Reported/Solved *"Failed to build gem native extenstion"*: Score 3
+     Wrote Solution for *"ERR_CONNECTION_REFUSED"*: Score 2
+   - **Chanwoong Jhon**
+     Reported *"ERR_CONNECTION_REFUSED"*: Score 1
