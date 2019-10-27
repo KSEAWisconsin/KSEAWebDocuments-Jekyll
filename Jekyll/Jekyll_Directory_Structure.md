@@ -200,31 +200,47 @@ Compare between JSON, YAML, and CSV: See [this link](https://github.com/hyecheol
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
 Structure of assets in Jekyll site:
 ```
+.
 ├── assets
 |   ├── css
 |   ├── images
 |   └── js
+...
 ```
 
 You can use either CSS or Sass.  
 ※[Sass](https://sass-lang.com/) (Syntactically Awesome Style Sheets) is kind of extension of CSS. You can put much more variables and nestings, and also have many functions.
 
-For Sass,
-- create a Sass file at `/assets/css/styles.scss` with the following content:
-```
----
----
-@import "main";
-```
+[See this](https://github.com/envygeeks/jekyll-assets) // I don't think it is related to the official page.
+
+### Need to know Variables
+[Variables]()
 
 # Writing Posts
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
 
 ### Basic Descriptions
-- Live in a folder called *_posts*.
+- Live in a folder called *_posts*
+- There is no layouts for the `post`
+  - Need to create the layout at `_layouts/post.html`
+  - set the layout of `post` as `post` to use `_layouts/post.html`
+
+Example of `_layouts/post.html`:
+```
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+{{ content }}
+```
+- `date_to_string` filter makes a date into a nice format
+
+# List Posts
 
 
-### Features
+
 
 
 # Collection
