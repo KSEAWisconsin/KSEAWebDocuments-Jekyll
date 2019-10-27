@@ -214,7 +214,7 @@ You can use either CSS or Sass.
 [See this](https://github.com/envygeeks/jekyll-assets) // I don't think it is related to the official page.
 
 ### Need to know Variables
-[Variables]()
+[Jekyll Variables](https://jekyllrb.com/docs/variables/)
 
 # Writing Posts
 [Official Site](https://jekyllrb.com/docs/step-by-step/08-blogging/)
@@ -238,9 +238,38 @@ layout: default
 - `date_to_string` filter makes a date into a nice format
 
 # List Posts
+- Jekyll makes posts available at `site.posts`
+- File `blog.html` in your root with this code will create the posts:
+```
+---
+layout: default
+title: Blog
+---
+<h1>Latest Posts</h1>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+```
+- `post.url` is the output path of the post
+- `post.title` sets `title` in front matter
+- `post.excerpt` is the first paragraph of content by default
 
-
+For *yml* file,  open `_data/navigation.yml` and add an entry for the blog page.  
+For example:
+```
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html 
+```
 
 
 # Collection
