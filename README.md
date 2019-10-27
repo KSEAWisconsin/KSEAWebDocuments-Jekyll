@@ -42,7 +42,7 @@ The procedures after you submit the pull request is same as collaborators'. Read
 ## Contribution Evaluation
 To **maintain high productivity** of team and **properly compensate** for the contribution toward this project, we decided to calculate each person's contribution rate.  
 For each sub-projects and small tasks, score will be set based on the difficulty and expected work-hours to finish it.  After each task finished, the score of the task will be divided to the participants of that task considering github statistics (number of commits, number of code line editted, and so on) and other adjustments.  
-Score will be maintained on separated **ScoreBoard** documents.
+Score will be maintained on separated **[ScoreBoard](https://github.com/hyecheol123/KSEAWebDocuments/blob/master/ScoreBoard.md)** documents.
 
 
 ## Timeline of Project
