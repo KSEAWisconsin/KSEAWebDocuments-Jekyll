@@ -45,6 +45,17 @@ For each sub-projects and small tasks, score will be set based on the difficulty
 Score will be maintained on separated **[ScoreBoard](https://github.com/hyecheol123/KSEAWebDocuments/blob/master/ScoreBoard.md)** documents.
 
 
+## Benefit of Contribution
+Depending on the score of contribution, contribution Badge will be given. By earning each contribution badge, some benefits will be given to each participants. Contributors without badge will not receive any benefit.
+- **Bronze Contributors**: Score 40
+  + Contributor will be creditted as ***Contributors*** of KSEA Website Rebuilding project. Their name will be placed on a page on website where describing ***KSEA-Wisconsin Webpage Rebuilding Taskforce***
+- **Silver Contributors**: Score 70
+  + Include all benefits of *Bronze Contributors*
+  + Contributor will be creditted as ***Honored Contributors*** of KSEA Website Rebuilding project.
+- **Gold Contributors**: Score 120
+  + Include all benefits of *Silver Contributors*
+  + Will host online resume of the participants after *Phase 2* update(TBD) of website.
+
 ## Timeline of Project
 The estimated plan for this project is illustrated below
 - Sep. 24: Select base open-source project that will use for this project (**Finish**)
@@ -60,10 +71,13 @@ The estimated plan for this project is illustrated below
 
 
 ## More upcomming projects
-- Implementing E-Mail Inquiry form (Using AWS Lambda and SES)
-- Implementing autonomous E-Mail Advertisement sender (Using AWS SES)
-- Make auto resume builder for KSEA-Chapter Members (Using Jekyll?)
-- Development Website for YG Chapter
+- Phase 2
+  + Make auto resume builder for KSEA-Chapter Members (Using Jekyll?)
+- Phase 3
+  + Implementing E-Mail Inquiry form (Using AWS Lambda and SES)
+  + Implementing autonomous E-Mail Advertisement sender (Using AWS SES)
+- Phase 4
+  + Development Website for YG Chapter
 
 
 ## Contents
