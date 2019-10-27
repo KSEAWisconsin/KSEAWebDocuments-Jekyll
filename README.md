@@ -70,6 +70,9 @@ The estimated plan for this project is illustrated below
 ### Design
 Containing design of the site, all of **Desktop** and **Mobile** site.  
 Only final exported prototype will be stored, the working copy is maintained on the other private repository.
+- **Desktop Design**
+  + *Last Update:* Oct. 27. 2019
+  + *Author:* Hyecheol (Jerry) Jang
 
 ### Jekyll  
 Containing document related to using (installing) Jekyll
