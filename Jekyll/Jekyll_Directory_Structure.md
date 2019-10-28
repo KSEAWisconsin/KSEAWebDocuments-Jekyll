@@ -274,15 +274,125 @@ For example:
 
 # Collection
 [Official Site](https://jekyllrb.com/docs/step-by-step/09-collections/)
+[reference](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-collections/)
 
-### Basic Descriptions
+- Defining Collections happens in a file called `_config.yml` in the root (by default)
 
-### Features
+You should use Collections when:
+```
++-------------------------------------+         +----------------+
+| Can the things be logically grouped?|---No--->|    Use pages   |
++-------------------------------------+         +----------------+
+                |
+               Yes
+                |
+                V
++-------------------------------------+         +----------------+
+|      Are they grouped by date?      |---No--->|Use a collection|
++-------------------------------------+         +----------------+
+                |
+               Yes
+                |
+                V
++-------------------------------------+
+|            Use posts                |
++-------------------------------------+
+```
+If you add a data about something, for example cookies, you should add an image, heading and content:
+```
+...
+<div class="cookie">
+  <h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg" alt="Afghan">
+    Afghan
+  </h2>
+  <p>
+    An Afghan biscuit is a traditional New Zealand biscuit made from flour, butter, cornflakes, sugar and cocoa powder, topped with chocolate icing and a half walnut. The recipe[1] has a high proportion of butter, and relatively low sugar, and no leavening (rising agent), giving it a soft, dense and rich texture, with crunchiness from the cornflakes, rather than from a high sugar content. The high butter content gives a soft melt-in-the-mouth texture, and the sweetness of the icing offsets the low sugar and the cocoa bitterness. The origin of the recipe and the derivation of the name are unknown, but the recipe has appeared in many editions of the influential New Zealand Edmonds Cookery Book.
+  </p>
+  <p>Source <a href="https://en.wikipedia.org/wiki/Afghan_biscuit">Wikipedia</a></p>
+</div>
+...
+```
+To add more cookies, you might cause some mistake if you copy and paste an existing cookies and update the content.
+
+First, add a collections object in `_config.yml`, then under collections define the collections we want on the site:
+```
+collections:
+  cookies:
+```
+Documents (the items in a collection) live in a folder in the root of the site named `_*collection_name*`, in this case it's `_cookies`.
+  - Could be either **Markdown** or HTML
+For the Afghan cookie, create `_cookies/afghan.md`:
+```
+---
+title: Afghan
+image_path: https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg
+---
+An Afghan biscuit is a traditional New Zealand biscuit made from flour, butter, cornflakes, sugar and cocoa powder, topped with chocolate icing and a half walnut. The recipe[1] has a high proportion of butter, and relatively low sugar, and no leavening (rising agent), giving it a soft, dense and rich texture, with crunchiness from the cornflakes, rather than from a high sugar content. The high butter content gives a soft melt-in-the-mouth texture, and the sweetness of the icing offsets the low sugar and the cocoa bitterness. The origin of the recipe and the derivation of the name are unknown, but the recipe has appeared in many editions of the influential New Zealand Edmonds Cookery Book.
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Afghan_biscuit)
+```
+And repeat this for the other cookies that you want to add
+
+Create `cookies.html` and access collections with the code `site.*collection_name*`, in this case it's `site.cookies`:
+```
+---
+layout: page
+title: Cookies
+---
+{% for cookie in site.cookies %}
+  <div class="cookie">
+    <h2><img src="{{ cookie.image_path }}" alt="{{ cookie.title }}">{{ cookie.title }}</a></h2>
+    {{ cookie.content }}
+  </div>
+{% endfor %}
+```
+**Remember whenever you change the** `_config.yml` **refresh the jekyll**
 
 
 # Deployment
 [Official Site](https://jekyllrb.com/docs/step-by-step/10-deployment/)
 
 ### Basic Descriptions
+- Get the site ready for production!!!
 
-### Features
+## Gemfile
+-Create `Gemfile` in the root with the following:
+```
+source 'https://rubygems.org'
+
+gem 'jekyll'
+```
+- Run `bundle install`
+  - This installs gems and creates `Gemfile.lock`
+  - Want to update, run `bundle update`
+- When using a `Gemfile`, run `bundle exec jekyll serve`
+
+## Plugins
+There are many [plugins](https://jekyllrb.com/docs/plugins/)
+
+Three useful official plugins:
+- [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap): creates a sitemap file to help search engines index content
+- [jekyll-feed](https://github.com/jekyll/jekyll-feed): creates an [RSS](https://en.wikipedia.org/wiki/RSS) feed for your posts
+- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag): adds meta tags to help with SEO (Search Engine Optimization)
+
+To use, need to add them to your `Gemfile`:
+```
+source 'https://rubygems.org'
+
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
+end
+```
+Then add these lines to `_config.yml`:
+```
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+```
+Install them by running a `bundle update`
