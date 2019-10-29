@@ -278,7 +278,31 @@ Also you can set the value of the author to access each by each inside the front
 Plus, you can reach the data by `{% for data in site.data.fileName %}`
 
 ## CSV
- 
+[reference](https://talk.jekyllrb.com/t/accessing-specific-entry-in-a-csv-file-in-data-folder/1713/2)
+Suppose you have a CSV file like this:
+```
+path,filename,width,height
+/assets/images,jekyll-search.png,515,446
+/assets/images,jamstack-architecture.png,974,463
+```
+To access each item, you can access by using *Liquid*:
+```
+<ul>
+  {% for image in site.data.images %}
+    <li>
+      <img src="{{ image.path | relative_url }}/{{ image.filename }}" width="{{ image.width }}" height="{{ image.height }}" />
+    </li>
+  {% endfor %}
+</ul>
+```
+Or by using `where` filter:
+```
+{{ site.data.images | where:"filename","jekyll-search.png" }}
+```
+Or by using its index:
+```
+{{ site.data.images[0].filename }}
+```
 
 # Assets
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
