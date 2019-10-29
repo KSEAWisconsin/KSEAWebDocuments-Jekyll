@@ -278,7 +278,7 @@ Also you can set the value of the author to access each by each inside the front
 Plus, you can reach the data by `{% for data in site.data.fileName %}`
 
 ## CSV
-[reference](https://talk.jekyllrb.com/t/accessing-specific-entry-in-a-csv-file-in-data-folder/1713/2)
+[reference](https://talk.jekyllrb.com/t/accessing-specific-entry-in-a-csv-file-in-data-folder/1713/2)  
 Suppose you have a CSV file like this:
 ```
 path,filename,width,height
@@ -305,7 +305,7 @@ Or by using its index:
 ```
 
 # Assets
-[Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
+[Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)  
 Structure of assets in Jekyll site:
 ```
 .
