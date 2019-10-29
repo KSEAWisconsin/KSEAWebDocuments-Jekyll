@@ -47,6 +47,3 @@ For example:
 ### Whitespace
 - Can be inserted between any pair of tokens excepting a few encoding deatails  
 ![whitespaceImage](https://github.com/hyecheol123/KSEAWebDocuments/blob/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types/JSON/whitespace.png)
-
-
-## Use JSON on Jekyll
