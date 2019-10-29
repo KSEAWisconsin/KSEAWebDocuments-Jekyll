@@ -174,6 +174,89 @@ Creating a folder, `_data`, and inside this we can create a file `fileName.csv`.
 The data file is available at `site.data.fileName`, and we can run this through the *jsonify* filter to output an **array** our JavaScript can understand.  
 In JavaScript, we can use jsonify files directly into the variables, so here is the example: `let name = {{ site.data.[fileName] | jsonify }};`.
 
+Compare between JSON, YAML, and CSV: See [this link](https://github.com/hyecheol123/KSEAWebDocuments/tree/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types)
+
+## YAML
+[reference](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial)
+
+- You can access the value by using dot (.) sign
+
+### Simple File
+Suppose you have this simple YAML file named *samplelist*:
+```
+name:
+  husband: Tom
+  wife: Shannon
+```
+Then you can use with using Markdown + Liquid:
+```
+<p>Husband's name: {{site.data.samplelist.name.husband}}</p>
+<p>Wife's name: {{site.data.samplelist.name.wife}}</p>
+```
+The result is:
+> Husband's name: Tom
+> Wife's name: Shannon
+
+### Table or List
+For the Table or List YAML file named *samplelist* like:
+```
+toc:
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+      - page: Thing 2
+      - page: Thing 3
+  - title: Group 2
+    subfolderitems:
+      - page: Piece 1
+      - page: Piece 2
+      - page: Piece 3
+  - title: Group 3
+    subfolderitems:
+      - page: Widget 1
+      - page: Widget 2 it's
+      - page: Widget 3
+```
+You can access the data like:
+```
+{% for item in site.data.samplelist.toc %}
+<h3>{{item.title}}</h3>
+<ul>
+{% for entry in item.subfolderitems %}
+<li>{{entry.page}}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+```
+Then the result is:
+> Group 1
+> - Thing 1
+> - Thing 2
+> - Thing 3
+> Group 2
+> - Piece 1
+> - Piece 2
+> - Piece 3
+> Group 3
+> - Widget 1
+> - Widget 2
+> - Widget 3
+Or if you use `{{ site.data.samplelist.toc[0].subfolderitems[0].page }}`, you can get the value `Thing 1`
+
+### Variables
+YAML named *samplelist*:
+```
+something: &hello Greetings earthling!
+myref: *hello
+```
+Markdown:
+```
+{{ site.data.samplelist.myref }}
+```
+Result:
+> Greetings earthling!
+
+## JSON
 For the json type, also can access like an **array**.  
 Suppose that you have a file `authors.json` like this:
 ```
@@ -192,9 +275,10 @@ Suppose that you have a file `authors.json` like this:
 ```
 then you can access the data of mike like `{{ site.data.authors[mike] }}`.  
 Also you can set the value of the author to access each by each inside the front matter for the layouts or includes.  
+Plus, you can reach the data by `{% for data in site.data.fileName %}`
 
-Compare between JSON, YAML, and CSV: See [this link](https://github.com/hyecheol123/KSEAWebDocuments/tree/Yongsang_Jekyll_DirectoryStructure/Jekyll/Compare_Data_File_Types)
-
+## CSV
+ 
 
 # Assets
 [Official Site](https://jekyllrb.com/docs/step-by-step/07-assets/)
@@ -396,3 +480,48 @@ plugins:
   - jekyll-seo-tag
 ```
 Install them by running a `bundle update`
+
+- No need to set up `jekyll-sitemap`
+
+- `jekyll-feed` and `jekyll-seo-tag` are needed to add tags to `_layouts/default.html`:
+```
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+  </body>
+</html>
+```
+
+## [Environments](https://jekyllrb.com/docs/configuration/environments/)
+In the `build` (or `serve`) arguments, you can specify a Jekyll environment and value
+- You can set the environment by using the `JEKYLL_ENV`
+
+Suppose you set this conditional statement in your code:
+```
+{% if jekyll.environment == "production" %}
+   {% include disqus.html %}
+{% endif %}
+```
+When the `if` statement won't be run unless you specify a `production` environment in the build command like this in the therminal:
+```
+JEKYLL_ENV=production jekyll build
+```
+
+- The default value for `JEKYLL_ENV` is `development`
+  - Any content inside `{% if jekyll.environment == "development" %}` tags will automatically run
+
+## Deployment
+Run a production build:
+```
+JEKYLL_ENV=production bundle exec jekyll build
+```
+And copy the contents of `_site` to your server
