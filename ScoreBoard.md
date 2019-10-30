@@ -9,16 +9,16 @@ Score will be updated after each task has been finished.
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
 | Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 61            | 1    | Bronze Contributor |
 | Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 34            | 2    |                    |
-| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 12.5          | 3    |                    |
-| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 8.5           | 4    |                    |
-| Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
-| Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 3             | 5.5  |                    |
-| David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 10.5 |                    |
-| Jocelyn Kim           | Designer                              | Oct.07.2019 - Current     | Current Member     | 0             | 10.5 |                    |
-| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 1             | 7.5  |                    |
-| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 1             | 7.5  |                    |
-| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Current     | Current Member     | 0             | 10.5 |                    |
-| Jin Kim               | Pool Member                           | Sep.26.2019 - Oct.20.2019 | Quit Participating | 0             | 10.5 |                    |
+| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 13.5          | 3    |                    |
+| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 9.5           | 4    |                    |
+| Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 4             | 5.5  |                    |
+| Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 4             | 5.5  |                    |
+| David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 11   |                    |
+| Jocelyn Kim           | Designer                              | Oct.07.2019 - Current     | Current Member     | 0             | 11   |                    |
+| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 1             | 8    |                    |
+| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 1             | 8    |                    |
+| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Current     | Current Member     | 1             | 8    |                    |
+| Jin Kim               | Pool Member                           | Sep.26.2019 - Oct.20.2019 | Quit Participating | 0             | 11   |                    |
 
 
 ## Scoring Detail
@@ -145,5 +145,5 @@ Total Score: 10
    Participants: Hyecheol (Jerry) Jang
 
 ### Oct. 27/29. 2019 Mandatory Meeting
-Participants: Hyecheol (Jerry) Jang, Hyeon Jun Jeong, Seok-hee Han
+Participants: Hyecheol (Jerry) Jang, Hyeon Jun Jeong, Seok-hee Han, Chaiyeen Oh, Changwoong Jhon, Yeon Jae Cho, Yewon Lee, Youna Kim
 Score: 1
