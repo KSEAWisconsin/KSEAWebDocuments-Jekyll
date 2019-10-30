@@ -7,8 +7,8 @@ Score will be updated after each task has been finished.
 ## Individuals' Current Score
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent   | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
-| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 61            | 1    | Bronze Contributor |
-| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 34            | 2    |                    |
+| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 67            | 2    | Bronze Contributor |
+| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 68            | 1    | Bronze Contributor |
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 13.5          | 3    |                    |
 | Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 9.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Current     | Current Member     | 4             | 5.5  |                    |
@@ -135,6 +135,18 @@ Total Score: 10
    - **Hyecheol (Jerry) Jang**  
      Participation Rate: 10%  
      Score: 1
+2. **Compare Data File Types**
+   Total Score: 10
+   Participants: Yongsang Park
+3. **Directory Structure**
+   Total Score: 30
+   - **Hyecheol (Jerry) Jang**
+     Participation Rate: 20%  
+     Score: 6
+   - **Yongsang Park**
+     Participation Rate: 80%  
+     Score: 24
+
 
 ### Website Design
 1. **Scatch**  

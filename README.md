@@ -89,51 +89,27 @@ Only final exported prototype will be stored, the working copy is maintained on 
   + *Author:* Hyecheol (Jerry) Jang
 
 ### Jekyll  
-Containing document related to using (installing) Jekyll
-- **Directory Structure**  
-  Needs to contain all information below, and the other useful information you found
-  https://jekyllrb.com/docs/structure/
-  
-  + **Liquid**  
-    https://jekyllrb.com/docs/step-by-step/02-liquid/
-
-  + **Front Matter**  
-    https://jekyllrb.com/docs/step-by-step/03-front-matter/  
-    YAML
-
-  + **Basic Layout**  
-    https://jekyllrb.com/docs/step-by-step/04-layouts/
-
-  + **Includes**  
-    https://jekyllrb.com/docs/step-by-step/05-includes/
-
-  + **Data Files**  
-    https://jekyllrb.com/docs/step-by-step/06-data-files/
-
-  + **Assets**  
-    https://jekyllrb.com/docs/step-by-step/07-assets/
-
-  + **Writing Posts**  
-    https://jekyllrb.com/docs/step-by-step/08-blogging/
-
-  + **Collection**  
-    https://jekyllrb.com/docs/step-by-step/09-collections/
-
-  + **Deployment**  
-    https://jekyllrb.com/docs/step-by-step/10-deployment/
-  
-  + **Theme**
-
+Containing document related to using (installing) Jekyll  
+**Compare Data File Types**  
+Supplement of **Directory Structure**  
+Write about various type of data files (YAML, JSON, CSV), which jekyll uses to store variables(data) of website.
+- *Last Update*: Oct. 29. 2019  
+- *Author*: Yongsang Park  
+**Directory Structure**  
+Contains information of basic Jekyll's structure.  
+Write on how it works and how each files and directory (the components) are working to generate the website.  
+- *Last Update*: Oct. 30. 2019
+- *Author*: Yongsnag Park, Hyecheol (Jerry) Jang  
 **Process of Generating Theme**  
-Review the overall procedure of making Jekyll Theme
+Review the overall procedure of making Jekyll Theme  
 - *Last Update*: Oct. 17. 2019
-- *Author*: Yongsang Park
+- *Author*: Yongsang Park  
 **Error While Installing Jekyll**  
-This file has been generated to report errors while installing Jekyll, and report the solutions for those.
-- Failed to build gem native extension
-- ERR_CONNECTION_REFUSED while trying to access from the other device
+This file has been generated to report errors while installing Jekyll, and report the solutions for those.  
+- Failed to build gem native extension  
+- ERR_CONNECTION_REFUSED while trying to access from the other device  
 - *Last Update:* Sep. 27. 2019
-- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon
+- *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon  
 **Jekyll Install Procedure (Ubuntu)**  
 Containing procedures to install Jekyll, from the beginning (setting up the requirements)
 - *Last Update:* Sep. 28. 2019
