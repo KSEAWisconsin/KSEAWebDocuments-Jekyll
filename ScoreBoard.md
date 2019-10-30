@@ -12,7 +12,7 @@ Score will be updated after each task has been finished.
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 13.5          | 3    |                    |
 | Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 9.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 4             | 5.5  |                    |
-| Youna Kim             | Developer                             | Sep.19.2019 - Current     | Current Member     | 4             | 5.5  |                    |
+| Youna Kim             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 4             | 5.5  |                    |
 | David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 11   |                    |
 | Jocelyn Kim           | Designer                              | Oct.07.2019 - Current     | Current Member     | 0             | 11   |                    |
 | Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member     | 1             | 8    |                    |
