@@ -319,8 +319,6 @@ Structure of assets in Jekyll site:
 You can use either CSS or Sass.  
 ※[Sass](https://sass-lang.com/) (Syntactically Awesome Style Sheets) is kind of extension of CSS. You can put much more variables and nestings, and also have many functions.
 
-[See this](https://github.com/envygeeks/jekyll-assets) // I don't think it is related to the official page.
-
 ### Need to know Variables
 [Jekyll Variables](https://jekyllrb.com/docs/variables/)
 
