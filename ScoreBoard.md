@@ -9,8 +9,8 @@ Score will be updated after each task has been finished.
 |-----------------------|---------------------------------------|---------------------------|--------------------|---------------|------|--------------------|
 | Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member     | 67            | 2    | Bronze Contributor |
 | Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member     | 68            | 1    | Bronze Contributor |
-| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Current     | Current Member     | 13.5          | 3    |                    |
-| Changwoong Jhon       | Developer                             | Sep.19.2019 - Current     | Current Member     | 9.5           | 4    |                    |
+| Chaiyeen Oh           | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 13.5          | 3    |                    |
+| Changwoong Jhon       | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 9.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 4             | 5.5  |                    |
 | Youna Kim             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating | 4             | 5.5  |                    |
 | David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating | 0             | 11   |                    |
