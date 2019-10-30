@@ -83,10 +83,10 @@ The estimated plan for this project is illustrated below
 ## Contents
 ### Design
 Containing design of the site, all of **Desktop** and **Mobile** site.  
-Only final exported prototype will be stored, the working copy is maintained on the other private repository.
+Only final exported prototype will be stored, the working copy is maintained on the other private repository.  
 - **Desktop Design**
   + *Last Update:* Oct. 27. 2019
-  + *Author:* Hyecheol (Jerry) Jang
+  + *Author:* Hyecheol (Jerry) Jang  
 
 ### Jekyll  
 Containing document related to using (installing) Jekyll  
@@ -95,21 +95,25 @@ Supplement of **Directory Structure**
 Write about various type of data files (YAML, JSON, CSV), which jekyll uses to store variables(data) of website.
 - *Last Update*: Oct. 29. 2019  
 - *Author*: Yongsang Park  
+
 **Directory Structure**  
 Contains information of basic Jekyll's structure.  
 Write on how it works and how each files and directory (the components) are working to generate the website.  
 - *Last Update*: Oct. 30. 2019
 - *Author*: Yongsnag Park, Hyecheol (Jerry) Jang  
+
 **Process of Generating Theme**  
 Review the overall procedure of making Jekyll Theme  
 - *Last Update*: Oct. 17. 2019
 - *Author*: Yongsang Park  
+
 **Error While Installing Jekyll**  
 This file has been generated to report errors while installing Jekyll, and report the solutions for those.  
 - Failed to build gem native extension  
 - ERR_CONNECTION_REFUSED while trying to access from the other device  
 - *Last Update:* Sep. 27. 2019
 - *Author:* Hyecheol (Jerry) Jang, Chanwoong Jhon  
+
 **Jekyll Install Procedure (Ubuntu)**  
 Containing procedures to install Jekyll, from the beginning (setting up the requirements)
 - *Last Update:* Sep. 28. 2019
@@ -153,6 +157,7 @@ Conduct research on the well-known static website builders (The one that receive
   - **VuePress.md**
     - *Last Update:* Sep. 24. 2019
     - *Author:* Yongsang Park, Hyecheol (Jerry) Jang  
+
 **ComparingLanguages.md**  
 As a further research, we compared three languages that used by the analyzed static website builders  
 Comparing **Go**, **Ruby**, **JavaScript(Node.JS)**
