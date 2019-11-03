@@ -8,7 +8,7 @@ Score will be updated after each task has been finished.
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent             | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|------------------------------|---------------|------|--------------------|
 | Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member                  | 82            | 1    | Silver Contributor |
-| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member                  | 68            | 2    | Bronze Contributor |
+| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member                  | 72            | 2    | Silver Contributor |
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 13.5          | 3    |                    |
 | Changwoong Jhon       | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 9.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 4             | 5.5  |                    |
@@ -145,7 +145,10 @@ Total Score: 10
      Score: 6
    - **Yongsang Park**  
      Participation Rate: 80%  
-     Score: 24
+     Score: 24  
+4. **Using Sass on Jekyll**  
+   Total Score: 4  
+   Participants: Yongsang Park  
 
 
 ### Website Design
