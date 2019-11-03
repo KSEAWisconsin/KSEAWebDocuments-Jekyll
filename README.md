@@ -63,7 +63,7 @@ The estimated plan for this project is illustrated below
 - Sep. 24: Select base open-source project that will use for this project (**Finish**)
   + We Selected **Jekyll**
 - Oct. 04 ~~Oct. 05~~: Finish installing required environment (**Finish**)
-- Oct. 25 ~~Oct. 19~~: Obtain basic knowledge of Jekyll (**On-going**)
+- Nov. 03 ~~Oct. 19~~: Obtain basic knowledge of Jekyll (**Finish**)
 - Nov. 02 ~~Oct. 19~~: Designing Website (**Finish**)
 - Dec. 01: Finish Development
 - Dec. 25: Test Initiated
@@ -83,6 +83,12 @@ The estimated plan for this project is illustrated below
 
 
 ## Contents
+### Resource  
+Contain other useful documents that is relevant to developing website using Jekyll  
+- **Using Sass on Jekyll**
+  + *Last Update:* Nov. 03. 2019
+  + *Author:* Yongsang Park  
+  
 ### Design
 Containing design of the site, all of **Desktop** and **Mobile** site.  
 Only final exported prototype will be stored, the working copy is maintained on the other private repository.  
