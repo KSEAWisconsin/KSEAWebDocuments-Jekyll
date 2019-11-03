@@ -62,7 +62,7 @@ The estimated plan for this project is illustrated below
   + We Selected **Jekyll**
 - Oct. 04 ~~Oct. 05~~: Finish installing required environment (**Finish**)
 - Oct. 25 ~~Oct. 19~~: Obtain basic knowledge of Jekyll (**On-going**)
-- Nov. 01 ~~Oct. 19~~: Designing Website (**On-going**)
+- Nov. 02 ~~Oct. 19~~: Designing Website (**Finish**)
 - Dec. 01: Finish Development
 - Dec. 25: Test Initiated
 - Jan. 20: Start service on AWS
@@ -86,6 +86,9 @@ Containing design of the site, all of **Desktop** and **Mobile** site.
 Only final exported prototype will be stored, the working copy is maintained on the other private repository.  
 - **Desktop Design**
   + *Last Update:* Oct. 27. 2019
+  + *Author:* Hyecheol (Jerry) Jang  
+- **Mobile Design**
+  + *Last Update:* Nov. 02. 2019  
   + *Author:* Hyecheol (Jerry) Jang  
 
 ### Jekyll  
