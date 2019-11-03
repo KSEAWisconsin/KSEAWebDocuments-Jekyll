@@ -5,6 +5,8 @@ After intense research on various static website builders, we decide to use Jeky
 - At now, Sep. 26. 2019, the latest version of Jeykll is **4.0.0**
 - Install Jeykll **4.0.0**, following the [official guide](https://jekyllrb.com/docs/installation/)
 
+***The code related with this documentation is on repository [KSEAWeb](https://github.com/hyecheol123/KSEAWeb)***
+
 
 ## Procedures / Permissions
 As this repository has been changed to public, I set some rules for pushing chnages to this repository
