@@ -7,8 +7,8 @@ Score will be updated after each task has been finished.
 ## Individuals' Current Score
 | Name                  | Position                              | Start Date - End Date     | Reason of Absent             | Current Score | Rank | Contribution Badge |
 |-----------------------|---------------------------------------|---------------------------|------------------------------|---------------|------|--------------------|
-| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member                  | 87            | 1    | Silver Contributor |
-| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member                  | 72            | 2    | Silver Contributor |
+| Hyecheol (Jerry) Jang | Project Manager / Developer           | Aug.16.2019 - Current     | Current Member                  | 95            | 1    | Silver Contributor |
+| Yongsang Park         | Assistant Project Manager / Developer | Aug.16.2019 - Current     | Current Member                  | 82            | 2    | Silver Contributor |
 | Chaiyeen Oh           | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 13.5          | 3    |                    |
 | Changwoong Jhon       | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 9.5           | 4    |                    |
 | Yewon Lee             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating              | 4             | 5.5  |                    |
@@ -170,3 +170,20 @@ Score: 1
 1. **Basic Structure and Layout**  
    Total Score: 5  
    Participants: Hyecheol (Jerry) Jang  
+2. **Header**
+   - **Desktop**  
+     Total Score: 8  
+     + **Hyecheol (Jerry) Jang**
+       Participation Rate: 50%  
+       Score: 4  
+     + **Yongsang Park**  
+       Participation Rate: 50%
+       Score: 4  
+   - **Mobile**  
+     Total Score: 10  
+     + **Hyecheol (Jerry) Jang**
+       Participation Rate: 40%  
+       Score: 4  
+     + **Yongsang Park**  
+       Participation Rate: 60%
+       Score: 6  
