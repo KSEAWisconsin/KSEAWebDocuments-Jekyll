@@ -41,7 +41,8 @@ For the whom missing any requirements, you should **install the dependencies**.
 
 ## Install Jekyll by RubyGems
 Installation of Jekyll is conducted by RubyGems  
-`gem install jekyll bundler`  
+`gem install jekyll'  
+'gem install bundler -v 1.16.2`  
 Takes a lots of time, so be patient
 
 ## Test
