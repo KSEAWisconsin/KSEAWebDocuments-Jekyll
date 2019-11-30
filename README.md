@@ -65,7 +65,7 @@ The estimated plan for this project is illustrated below
 - Oct. 04 ~~Oct. 05~~: Finish installing required environment (**Finish**)
 - Nov. 03 ~~Oct. 19~~: Obtain basic knowledge of Jekyll (**Finish**)
 - Nov. 02 ~~Oct. 19~~: Designing Website (**Finish**)
-- Dec. 01: Finish Development
+- Nov. 29 ~~Dec. 01~~: Finish Development
 - Dec. 25: Test Initiated
 - Jan. 20: Start service on AWS
 - Mar. 15: Fixing Error, estimating cost
