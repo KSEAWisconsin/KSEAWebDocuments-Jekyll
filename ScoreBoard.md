@@ -15,9 +15,9 @@ Score will be updated after each task has been finished.
 | Youna Kim             | Developer                             | Sep.19.2019 - Oct.29.2019 | Quit Participating                       | 4             | 8.5  |                    |
 | David Seong           | Designer                              | Oct.07.2019 - Oct.22.2019 | Quit Participating                       | 0             | 11   |                    |
 | Jocelyn Kim           | Designer                              | Oct.07.2019 - Nov.02.2019 | Retired - Design Project Ended           | 0             | 11   |                    |
-| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Current     | Current Member                           | 41            | 4    | Bronze Contributor |
-| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Current     | Current Member                           | 41            | 4    | Bronze Contributor |
-| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Current     | Current Member                           | 41            | 4    | Bronze Contributor |
+| Hyeon Jun Jeong       | Pool Member                           | Sep.19.2019 - Dec.02.2019 | Retired - Finish Implementation          | 41            | 4    | Bronze Contributor |
+| Seok-Hee Han          | Pool Member                           | Sep.19.2019 - Dec.02.2019 | Retired - Finish Implementation          | 41            | 4    | Bronze Contributor |
+| Yeon Jae Cho          | Pool Member                           | Sep.21.2019 - Dec.02.2019 | Retired - Finish Implementation          | 41            | 4    | Bronze Contributor |
 | Jin Kim               | Pool Member                           | Sep.26.2019 - Oct.20.2019 | Quit Participating                       | 0             | 11   |                    |
 
 
