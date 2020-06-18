@@ -11,5 +11,5 @@ E-Mail: hyecheol.jang@wisc.edu / hyecheol123@gmail.com
 1. [HOME: Change Main Page Events List]()
 2. [ABOUT: Fix Member Roasters]()  
 3. [NEWS & EVENT: Add/Change List]()  
-4. [NEWS & EVENT: Add New Posts]()  
+4. [NEWS & EVENT: Add New Posts](https://github.com/hyecheol123/KSEAWebDocuments-Jekyll/blob/master/UserGuide/News-Add_New_Posts.md)  
 5. [GALLARY: Fix GALLARY link]()

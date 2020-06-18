@@ -130,7 +130,7 @@ Example: ![KSEA Wisconsin](https://raw.githubusercontent.com/hyecheol123/KSEAWeb
   author: "Author's Name"
   ---
   ```
-  - You can Modify `title`, `location`, `timestamp`, and `author`, but `layout` should be `post`.
+  - You can Modify `title`, `location`, `timestamp`, and `author`, but **`layout` should be `post`**.
   - More Examples of the Post could be found on [_posts directory of Code Repository](https://github.com/hyecheol123/KSEAWeb-Jekyll/tree/master/_posts).  
     Click `Raw` after you navigate to the file you want to see.  
     GitHub Automatically synthesize markdown file to HTML.
