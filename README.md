@@ -8,6 +8,11 @@ After intense research on various static website builders, we decide to use Jeky
 ***The code related with this documentation is on repository [KSEAWeb](https://github.com/hyecheol123/KSEAWeb)***
 
 
+## User Guide
+All manuals of End-Users are located under UserGuide directory.  
+*Last Update*: Jun. 18. 2020
+
+
 ## Procedures / Permissions
 As this repository has been changed to public, I set some rules for pushing chnages to this repository
 
