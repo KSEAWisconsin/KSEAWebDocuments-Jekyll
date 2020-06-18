@@ -10,7 +10,6 @@ E-Mail: hyecheol.jang@wisc.edu / hyecheol123@gmail.com
 ## Table of Contents  
 0. [Get Started *(This Document)*](https://github.com/hyecheol123/KSEAWebDocuments-Jekyll/blob/master/UserGuide/GetStarted.md)
 1. [HOME: Change Main Page Events List](https://github.com/hyecheol123/KSEAWebDocuments-Jekyll/blob/master/UserGuide/Home-Change_Events_List.md)
-2. [ABOUT: Fix Member Roasters]()  
-3. [NEWS & EVENT: Add/Change List]()  
+2. [ABOUT: Fix Member Roasters](https://github.com/hyecheol123/KSEAWebDocuments-Jekyll/blob/master/UserGuide/About-Member_Roasters.md)  
+3. [NEWS & EVENT: Add/Change Event/News List]()  
 4. [NEWS & EVENT: Add New Posts](https://github.com/hyecheol123/KSEAWebDocuments-Jekyll/blob/master/UserGuide/News-Add_New_Posts.md)  
-5. [GALLARY: Fix GALLARY link]()

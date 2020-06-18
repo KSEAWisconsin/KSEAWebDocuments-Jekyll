@@ -1,6 +1,6 @@
 # HOME: Change Main Page Events List
 
-On the main page, `index.html, it displays eight upcomming events.  
+On the main page, it displays eight upcomming events.  
 The event list on Main page **maintained separatly with *NEWS & EVENT*'s list**, therefore, you need to edit separated event list.  
 
 - Home Events List can be found at `/_data/home_events.yml`
@@ -18,4 +18,5 @@ The event list on Main page **maintained separatly with *NEWS & EVENT*'s list**,
     - `detail_url`, `additional_info1`, `additional_info1`, and `additional_info1` are only used when there exist, otherwise, leave those contents blank.  
       Though there's nothing, the entry needs to exist.
 - Just put new events on top of the existing list, using the template.
-- Top Eight Entries will be shown
+- Top Eight events will be shown
+  - The maximum number of events can be modified [here](https://github.com/hyecheol123/KSEAWeb-Jekyll/blob/master/index.html#L19).
