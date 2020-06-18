@@ -135,3 +135,7 @@ Example: ![KSEA Wisconsin](https://raw.githubusercontent.com/hyecheol123/KSEAWeb
     Click `Raw` after you navigate to the file you want to see.  
     GitHub Automatically synthesize markdown file to HTML.
 - After the header, start write the contents (body) of the post using Markdown Syntax.
+- You can upload images to `/assets/post_images/`, and embed to the post by using the image's relative address.
+  - Example: Suppose we upload the image as `/assets/post_images/image.jpg`.  
+    Then you can embed image by using following Syntax.  
+    `![Alt Text](/assets/post_images/image.jpg)`

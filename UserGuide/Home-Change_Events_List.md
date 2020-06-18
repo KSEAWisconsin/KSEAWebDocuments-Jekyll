@@ -15,5 +15,7 @@ The event list on Main page **maintained separatly with *NEWS & EVENT*'s list**,
       additional_info2: # 2st line of additional information.
       additional_info3: # 2st line of additional information.
     ```
+    - `detail_url`, `additional_info1`, `additional_info1`, and `additional_info1` are only used when there exist, otherwise, leave those contents blank.  
+      Though there's nothing, the entry needs to exist.
 - Just put new events on top of the existing list, using the template.
 - Top Eight Entries will be shown
